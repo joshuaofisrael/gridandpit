@@ -72,8 +72,8 @@ export default function (eleventyConfig) {
   });
   eleventyConfig.addFilter("pageTitle", function (title) {
     const pageUrl = this.page?.url || "/";
-    if (pageUrl === pathPrefix) return `${site.name} — ${site.tagline}`;
-    return `${title || site.name} — ${site.name}`;
+    if (pageUrl === pathPrefix) return `${site.name} | ${site.tagline}`;
+    return `${title || site.name} | ${site.name}`;
   });
   eleventyConfig.addFilter("metaDescription", (summary) => metaDescription(summary, site.description));
   eleventyConfig.addFilter("presentDashboard", (data) => presentDashboard(data));
