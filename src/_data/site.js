@@ -19,7 +19,7 @@ const site = {
   contactFormEndpoint: "https://formsubmit.co/4497ee41a1200e746e967998473d21da",
   indexNowKey: "10d3bdeced9fa851daa244cebaa232c1",
   // Cookieless Cloudflare Web Analytics token. Empty until a Web Analytics site exists for gridandpit.com.
-  cloudflareAnalyticsToken: "",
+  cloudflareAnalyticsToken: "eac63f2b5dbc4539a2d95249baab6472",
   // GA4 measurement ID (G-XXXXXXXXXX). Empty until created. GA4 loads only after consent.
   ga4MeasurementId: "G-NDXEC5ZZZL",
   adsenseClient: "",
