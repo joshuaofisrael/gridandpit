@@ -1,0 +1,25 @@
+---
+pagination:
+  data: site.hubs
+  size: 1
+  alias: hubItem
+  addAllPagesToCollections: true
+kind: hub
+permalink: "/hubs/{{ hubItem.slug }}/"
+layout: layouts/page.njk
+eleventyComputed:
+  title: "{{ hubItem.title }}"
+  summary: "{{ hubItem.intro }}"
+---
+{% set stories = collections.posts | whereTag(hubItem.tag) %}
+{% set emptyNote = "No " ~ hubItem.name ~ " story has been published yet. This hub fills as stories are filed." %}
+{% include "partials/story-list.njk" %}
+<nav class="related" aria-label="Other hubs">
+  <h2>Other hubs</h2>
+  <ul>
+    {% for item in site.hubs %}{% if item.slug != hubItem.slug %}
+    <li><a href="{{ ('/hubs/' ~ item.slug ~ '/') | url }}">{{ item.title }}</a></li>
+    {% endif %}{% endfor %}
+    <li><a href="{{ '/topics/race-times/' | url }}">Race times in US time zones</a></li>
+  </ul>
+</nav>

@@ -1,0 +1,20 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+sitemapIgnore: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for item in collections.all %}
+{% set thin = false %}{% if item.data.kind == "topic" and item.data.desk and not (collections.posts | whereCategory(item.data.desk.name)).length %}{% set thin = true %}{% endif %}{% if item.data.kind == "hub" and item.data.hubItem and not (collections.posts | whereTag(item.data.hubItem.tag)).length %}{% set thin = true %}{% endif %}
+{% if item.url and item.data.draft != true and item.data.sitemapIgnore != true and item.data.noindex != true and not thin %}
+  <url>
+    <loc>{{ item.url | absoluteUrl }}</loc>
+    {% set stamp = (item.data.updatedAt or item.date) | isoDate %}
+    {% if stamp %}
+    <lastmod>{{ stamp }}</lastmod>
+    {% endif %}
+  </url>
+{% endif %}
+{% endfor %}
+</urlset>

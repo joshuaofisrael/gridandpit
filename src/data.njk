@@ -1,0 +1,81 @@
+---
+layout: layouts/base.njk
+permalink: /data/
+title: F1 points table after Austin
+summary: "Drivers and constructors points after the 2026 United States Grand Prix, from the official standings, with a source link on every row."
+kind: dashboard
+date: 2026-10-23
+---
+{% set view = dashboard | presentDashboard %}
+<header class="page-head">
+  <h1>F1 points table</h1>
+  <p class="last-updated">Last updated <time datetime="{{ view.updated }}">{{ view.updated | displayDate }}</time></p>
+  <p>Each figure below is already in a published story, and the story cites the page that printed it.</p>
+  <p><strong>Published standings</strong> are copied from the official standings tables. <strong>Grid and Pit arithmetic</strong> is a sum or difference we worked out from those tables. The rule is on <a href="{{ '/sources-ethics/' | url }}">Sources &amp; Ethics</a>.</p>
+  <p class="dash-note">Figures are as published by the named sources on the dates shown. They are not live timing.</p>
+</header>
+
+<section class="dash-section" aria-labelledby="dash-tiles-heading">
+  <h2 id="dash-tiles-heading">Figures</h2>
+  <ul class="dash-tiles">
+    {% for tile in view.tiles %}
+    <li>
+      <p class="dash-basis dash-basis-{{ tile.basis }}">{{ tile.basisLabel }}</p>
+      <p class="dash-value"><span class="dash-number">{{ tile.display }}</span> <span class="dash-unit">{{ tile.unit }}</span></p>
+      <p class="dash-label">{{ tile.label }}</p>
+      {% if tile.note %}<p class="dash-tile-note">{{ tile.note }}</p>{% endif %}
+      <p class="dash-meta">As of <time datetime="{{ tile.asOf }}">{{ tile.asOf | displayDate }}</time>. <a href="{{ tile.sourceUrl }}">{{ tile.sourceName }}</a>. <a href="{{ ('/articles/' ~ tile.articleSlug ~ '/') | url }}">Source article</a>.</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+{% for chart in view.charts %}
+<section class="dash-section" aria-labelledby="chart-{{ chart.id }}">
+  <h2 id="chart-{{ chart.id }}">{{ chart.title }}</h2>
+  <p>{{ chart.lede }}</p>
+  <figure class="dash-figure">
+    <div class="dash-bars" aria-hidden="true">
+      {% for row in chart.rows %}
+      <div class="dash-bar">
+        <p><span>{{ row.label }}</span> <strong>{{ row.display }}</strong></p>
+        <svg class="dash-svg" viewBox="0 0 100 8" preserveAspectRatio="none" focusable="false">
+          <rect class="dash-track" x="0" y="0" width="100" height="8"></rect>
+          <rect class="dash-fill" x="0" y="0" width="{{ row.barWidth }}" height="8"></rect>
+        </svg>
+      </div>
+      {% endfor %}
+    </div>
+    <table class="dash-table">
+      <caption>{{ chart.title }}. {{ chart.basisLabel }}.</caption>
+      <thead>
+        <tr>
+          <th scope="col">Item</th>
+          <th scope="col">Value</th>
+          <th scope="col">Unit</th>
+          <th scope="col">As of</th>
+          <th scope="col">Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in chart.rows %}
+        <tr>
+          <th scope="row">{{ row.label }}</th>
+          <td>{{ row.display }}</td>
+          <td>{{ row.unit }}</td>
+          <td><time datetime="{{ row.asOf }}">{{ row.asOf | displayDate }}</time></td>
+          <td><a href="{{ row.sourceUrl }}">{{ row.sourceName }}</a></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <figcaption>
+      <span class="dash-basis dash-basis-{{ chart.rows[0].basis }}">{{ chart.basisLabel }}</span>
+      Source: <a href="{{ chart.sourceUrl }}">{{ chart.sourceName }}</a>,
+      as of <time datetime="{{ chart.asOf }}">{{ chart.asOf | displayDate }}</time>.
+      <a href="{{ ('/articles/' ~ chart.articleSlug ~ '/') | url }}">Source article</a>.
+      {% if chart.sourceNote %}<span class="dash-source-note">{{ chart.sourceNote }}</span>{% endif %}
+    </figcaption>
+  </figure>
+</section>
+{% endfor %}
