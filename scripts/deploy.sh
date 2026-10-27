@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # The only publish route for gridandpit.com (gh-pages). Retries rerun this whole script,
 # so every attempt passes the legal hold gate again. Held items never reach _site.
+# Tiers (RULE.md amendment): HIGH holds for Joshua; MODERATE publishes only with a
+# ChatGPT SAFE clearance in moderate-clearances.jsonl (scripts/clear-moderate.js).
 set -euo pipefail
 cd "$(dirname "$0")/.."
 npm test

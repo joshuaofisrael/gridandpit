@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Usage: node scripts/hold-gate.js [--dry] [--verify _site]
 // Exit 0 always for the check itself (held posts are excluded, the rest publish);
+// Statuses: PASS, APPROVED (Joshua), CLEARED_MODERATE (fix + ChatGPT SAFE), HOLD_REVIEW.
 // --verify exits 1 if any held article exists in the built output.
 import fs from "node:fs";
 import { runGate, heldSlugs } from "../lib/legal-hold.js";
@@ -8,7 +9,7 @@ const args = process.argv.slice(2);
 const results = runGate("src/content/posts", { writeQueue: !args.includes("--dry") });
 fs.mkdirSync(".hold", { recursive: true });
 fs.writeFileSync(".hold/status.json", JSON.stringify({ checkedAt: new Date().toISOString(), results }, null, 2));
-for (const r of results) console.log(`${r.status.padEnd(11)} ${r.file}${r.hits.length ? "  rules " + [...new Set(r.hits.map((h) => h.rule))].join(",") : ""}`);
+for (const r of results) console.log(`${r.status.padEnd(16)} ${r.file}${r.hits.length ? "  rules " + [...new Set(r.hits.map((h) => h.rule))].join(",") + " " + r.severity : ""}`);
 const held = heldSlugs(results);
 const vi = args.indexOf("--verify");
 if (vi >= 0) {
