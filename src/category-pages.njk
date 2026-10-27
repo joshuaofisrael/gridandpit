@@ -5,6 +5,7 @@ pagination:
   alias: desk
   addAllPagesToCollections: true
 permalink: "/category/{{ desk.slug }}/"
+sitemapIgnore: true
 layout: layouts/section.njk
 ---
 {% set stories = collections.posts | whereCategory(desk.name) %}
