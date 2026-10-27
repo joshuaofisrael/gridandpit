@@ -4,3 +4,4 @@ _site-preview/
 _site-invalid/
 _site-dev/
 .DS_Store
+.hold/

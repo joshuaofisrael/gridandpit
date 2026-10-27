@@ -8,10 +8,11 @@
   },
   "scripts": {
     "dev": "ELEVENTY_ENV=development eleventy --serve --port=8080",
-    "build": "eleventy",
+    "build": "node scripts/hold-gate.js && eleventy && node scripts/hold-gate.js --dry --verify _site",
     "build:preview": "ELEVENTY_ENV=development eleventy --output=_site-preview",
     "indexnow": "node scripts/ping-indexnow.js",
-    "test": "node --test"
+    "test": "node --test",
+    "deploy": "bash scripts/deploy.sh"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.7",
