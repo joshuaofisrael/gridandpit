@@ -1,7 +1,7 @@
 ---
 title: "2027 F1 seats still open: Bearman's Haas delay, Racing Bulls and Herta's Cadillac chance"
 date: 2026-10-27
-updatedAt: 2026-10-27
+updatedAt: 2026-10-28
 category: Driver Market
 summary: "Three 2027 race seats are still officially unconfirmed, and Cadillac's chief executive says there is always a chance for American Colton Herta. Here is where every open question stands."
 description: "Which 2027 F1 seats are still open: Oliver Bearman's delayed Haas deal, both Racing Bulls cars, and whether Colton Herta can still land a Cadillac race seat."
@@ -29,6 +29,10 @@ images:
     width: 1280
     height: 720
 sources:
+  - title: "The Cadillac Formula 1 Team aim to reach new heights in Mexico City"
+    url: "https://www.cadillacf1team.com/news/the-cadillac-formula-1-r-team-aim-to-reach-new-heights-in-mexico-city"
+    publisher: "Cadillac Formula 1 Team"
+    date: 2026-10-27
   - title: "Oliver Bearman issues firm declaration over F1 future amid new contract delay"
     url: "https://racingnews365.com/oliver-bearman-issues-firm-declaration-over-f1-future-amid-new-contract-delay"
     publisher: "RacingNews365"
@@ -69,7 +73,7 @@ Cadillac signed Valtteri Bottas and Sergio Pérez for its debut season on long t
 
 Chief executive Dan Towriss then went further in an interview with [RACER](https://racer.com/2026/10/26/herta-still-in-with-a-shot-of-cadillac-race-seat-as-bottas-pace-comes-into-question). He said Bottas has had races where he has been off the pace and that the team is "talking about that," and when asked whether reserve driver Colton Herta could still get a seat, he replied, "Yeah, there's always a chance." Those comments are quoted by [Nextgen Auto](https://motorsport.nextgen-auto.com/en/formula-1/cadillac-admits-herta-could-replace-bottas,212733.html). Bottas, quoted in the same report, said the team seems happy with what he brings.
 
-Herta, 26, left IndyCar for Formula 2 this season to chase a seat. His Formula 2 campaign has been difficult, so the obstacle is the FIA super license. [Grandprix.com](https://www.grandprix.com/news/herta-in-frame-to-replace-bottas-at-cadillac-for-2027.html), citing The Race, reports that Cadillac plans another practice outing for him before the season ends to help him reach the 40 point threshold, though neither Cadillac nor the FIA has confirmed that. Austin was his fourth scheduled first practice appearance of the year.
+Herta, 26, left IndyCar for Formula 2 this season to chase a seat. His Formula 2 campaign has been difficult, so the obstacle is the FIA super license. [Grandprix.com](https://www.grandprix.com/news/herta-in-frame-to-replace-bottas-at-cadillac-for-2027.html), citing The Race, reported that Cadillac planned another practice outing for him before the season ends to help him reach the 40 point threshold. Austin was his fourth first practice appearance of the year. Update, October 28: the [Cadillac team](https://www.cadillacf1team.com/news/the-cadillac-formula-1-r-team-aim-to-reach-new-heights-in-mexico-city) has since named him for first practice in Mexico City in Valtteri Bottas's car. Our [Herta super license explainer](/articles/2026-10-28-colton-herta-super-licence-points-mexico/) sets out why his exact points total is still unclear.
 
 The same report says Yuki Tsunoda has also been linked with the seat, while Esteban Ocon is not expected to join Cadillac. For American fans, Herta is the obvious storyline, since Cadillac has long said it wants an American race driver when one earns the chance. Follow every update on the [Cadillac hub](/hubs/cadillac/), and read about Pérez's milestone weekend in our [Cadillac Mexico City story](/articles/2026-10-27-cadillac-perez-300th-mexico/).
 

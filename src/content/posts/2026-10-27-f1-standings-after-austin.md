@@ -1,7 +1,7 @@
 ---
 title: "F1 standings after Austin: Antonelli leads by 123, Mercedes on 607"
 date: 2026-10-27
-updatedAt: 2026-10-27
+updatedAt: 2026-10-28
 category: Standings
 summary: "After round 18 in Austin, Kimi Antonelli has 365 points to George Russell's 242, and Mercedes leads the constructors with 607 points to Ferrari's 474."
 description: "2026 F1 drivers and constructors standings after the United States Grand Prix: Antonelli 365, Russell 242, Hamilton 241; Mercedes 607, Ferrari 474."
@@ -80,4 +80,4 @@ Only Russell and Hamilton can still mathematically beat Antonelli, [Sky Sports r
 
 Red Bull Racing and McLaren are level on 355 points in the [official table](https://www.formula1.com/en/results/2026/team). Cadillac, the new American team, has yet to score.
 
-Sky Sports notes that Mercedes leads Ferrari by 133 points, but that Ferrari has outscored Mercedes at each of the last three race weekends. Our [points table page](/data/) tracks these numbers race by race, and the [Mexico City title scenarios](/articles/2026-10-27-antonelli-title-mexico-scenarios/) explain what comes next.
+Sky Sports notes that Mercedes leads Ferrari by 133 points, but that Ferrari has outscored Mercedes at each of the last three race weekends. Our [points table page](/data/) tracks these numbers race by race, the [Mexico City title scenarios](/articles/2026-10-27-antonelli-title-mexico-scenarios/) explain what comes next, and our look at [the fight for second](/articles/2026-10-28-f1-fight-for-second-russell-hamilton-verstappen-leclerc/) breaks down the four drivers covered by nine points.
