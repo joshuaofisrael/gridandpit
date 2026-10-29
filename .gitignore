@@ -5,3 +5,4 @@ _site-invalid/
 _site-dev/
 .DS_Store
 .hold/
+.content-review/

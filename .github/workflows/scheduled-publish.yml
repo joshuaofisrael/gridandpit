@@ -1,0 +1,66 @@
+# Publishes the static site to gh-pages on 29 Oct 2026 so stories with a future
+# publishAt go live near 11:00, 15:00 and 19:00 UTC. GitHub's scheduler can slip,
+# so each slot has a second run 15 minutes later. The Eleventy build, not this
+# file, decides which stories are included: a run at 11:05 includes only the
+# 11:00 story. workflow_dispatch is the manual catch-up.
+name: Scheduled publish
+
+on:
+  schedule:
+    - cron: "0 11 29 10 *"
+    - cron: "15 11 29 10 *"
+    - cron: "0 15 29 10 *"
+    - cron: "15 15 29 10 *"
+    - cron: "0 19 29 10 *"
+    - cron: "15 19 29 10 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scheduled-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Limit the yearly cron to 29 Oct 2026
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%F)" != "2026-10-29" ]; then
+            echo "SKIP=1" >> "$GITHUB_ENV"
+            echo "Outside the 29 Oct 2026 window."
+          fi
+
+      - uses: actions/setup-node@v4
+        if: env.SKIP != '1'
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Test and build
+        if: env.SKIP != '1'
+        env:
+          CONTENT_REVIEW_DIR: ${{ github.workspace }}/.content-review
+        run: |
+          npm ci
+          npm test
+          rm -rf _site
+          npm run build
+          node scripts/hold-gate.js --dry --verify _site
+          touch _site/.nojekyll
+
+      - name: Deploy gh-pages
+        if: env.SKIP != '1'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd _site
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "Scheduled publish"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:gh-pages

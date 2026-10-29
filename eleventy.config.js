@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import site from "./src/_data/site.js";
-import { formatDisplayDate, isFreshNews, toIso, toRfc822 } from "./lib/dates.js";
+import { formatDisplayDate, isAwaitingPublish, isFreshNews, toIso, toRfc822 } from "./lib/dates.js";
 import { freshNewsPosts, renderNewsSitemap } from "./lib/news-sitemap.js";
 import { absoluteUrl, pathPrefixFromSiteUrl, prefixRootUrls } from "./lib/site-url.js";
 import { buildCrumbs, renderBreadcrumbNav, renderJsonLd } from "./lib/structured-data.js";
@@ -12,6 +12,12 @@ import dashboard from "./src/_data/dashboard.js";
 
 const pathPrefix = pathPrefixFromSiteUrl(site.url);
 const includeDrafts = process.env.ELEVENTY_ENV === "development";
+
+function isListedPost(post) {
+  if (post?.data?.sample === true || post?.data?.draft === true) return false;
+  if (!includeDrafts && isAwaitingPublish(post?.data?.publishAt)) return false;
+  return true;
+}
 
 function pageContext(bound) {
   const data = bound?.ctx ?? bound ?? {};
@@ -41,7 +47,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("relatedStories", (posts, category, currentUrl, limit = 5) =>
     (posts || [])
       .filter((post) => post.data.category === category)
-      .filter((post) => post.data.draft !== true && post.data.sample !== true)
+      .filter((post) => isListedPost(post))
       .filter((post) => post.url && post.url !== currentUrl)
       .sort((a, b) => {
         const delta = new Date(b.date) - new Date(a.date);
@@ -79,7 +85,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("presentDashboard", (data) => presentDashboard(data));
   eleventyConfig.addFilter("newsroomPosts", (posts) =>
     (posts || [])
-      .filter((post) => post.data.draft !== true && post.data.sample !== true)
+      .filter((post) => isListedPost(post))
       .sort((a, b) => {
         const delta = new Date(b.date) - new Date(a.date);
         if (delta) return delta;
@@ -107,19 +113,19 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection("posts", (api) =>
     api
       .getFilteredByGlob("src/content/posts/**/*.md")
-      .filter((post) => includeDrafts || post.data.draft !== true)
+      .filter((post) => includeDrafts || (post.data.draft !== true && !isAwaitingPublish(post.data.publishAt)))
       .sort((a, b) => b.date - a.date),
   );
   eleventyConfig.addCollection("publishedPosts", (api) =>
     api
       .getFilteredByGlob("src/content/posts/**/*.md")
-      .filter((post) => post.data.draft !== true)
+      .filter((post) => isListedPost(post))
       .sort((a, b) => b.date - a.date),
   );
   eleventyConfig.addCollection("publicTagList", (api) => {
     const tags = new Set();
     for (const post of api.getFilteredByGlob("src/content/posts/**/*.md")) {
-      if (post.data.draft === true) continue;
+      if (!isListedPost(post)) continue;
       for (const tag of post.data.tags || []) {
         if (typeof tag === "string" && tag.trim() && tag !== "post") tags.add(tag.trim());
       }
