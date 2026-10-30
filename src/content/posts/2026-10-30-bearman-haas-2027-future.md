@@ -22,6 +22,12 @@ images:
     after: 3
     width: 1280
     height: 720
+  - src: bearman-haas-strip
+    alt: "Abstract illustration of a horizontal strip of colored blocks"
+    caption: "Grid and Pit illustration"
+    after: 5
+    width: 1280
+    height: 720
 sources:
   - title: "F1 2026 Mexico City Grand Prix Thursday Press Conference Transcript"
     url: "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-thursday-press-conference-transcript"

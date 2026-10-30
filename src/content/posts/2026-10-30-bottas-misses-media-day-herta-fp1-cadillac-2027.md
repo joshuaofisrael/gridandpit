@@ -22,6 +22,12 @@ images:
     after: 3
     width: 1280
     height: 720
+  - src: bottas-cadillac-map
+    alt: "Abstract illustration of a simple map with route lines and markers"
+    caption: "Grid and Pit illustration"
+    after: 6
+    width: 1280
+    height: 720
 sources:
   - title: "Bottas given day of rest in Mexico as Cadillac issues reassuring update"
     url: "https://www.gpblog.com/en/breaking-news/valtteri-bottas-joins-kimi-antonelli-in-missing-mexico-media-duties-through-illness"

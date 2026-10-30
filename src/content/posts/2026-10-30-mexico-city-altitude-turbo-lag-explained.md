@@ -21,6 +21,12 @@ images:
     after: 3
     width: 1280
     height: 720
+  - src: altitude-turbo-map
+    alt: "Abstract illustration of a simple map with contour style route lines"
+    caption: "Grid and Pit illustration"
+    after: 7
+    width: 1280
+    height: 720
 sources:
   - title: "F1 2026 Mexico City Grand Prix Thursday Press Conference Transcript"
     url: "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-thursday-press-conference-transcript"
