@@ -1,7 +1,7 @@
 ---
 title: "Colton Herta's super license math: why Mexico City practice could bring his 40th point"
 date: 2026-10-28
-updatedAt: 2026-10-28
+updatedAt: 2026-10-30
 category: Driver Market
 summary: "Cadillac says Herta has 39 of the 40 super license points he needs. A documented count gives 38. Here is how the numbers work and what he has to do on Friday."
 description: "How many super license points does Colton Herta have? Cadillac says 39, a documented count says 38. The IndyCar points, FP1 rule and 24 lap Mexico target explained."
@@ -87,3 +87,5 @@ Reaching the threshold would make Herta eligible, not guarantee him a seat. Cadi
 ## How to follow it
 
 First practice starts at 2:30 PM Eastern, 1:30 PM Central, 12:30 PM Mountain and 11:30 AM Pacific, per our [Mexico City race times guide](/articles/2026-10-27-mexico-city-gp-race-times-us/). Watch his lap count as much as his times. Who else is in the cars on Friday is covered in [our FP1 lineup story](/articles/2026-10-28-mexico-city-fp1-herta-crawford-rookies/), and the wider picture is in [2027 seats still open](/articles/2026-10-27-f1-2027-open-seats-bearman-herta/) and on our [Cadillac hub](/hubs/cadillac/).
+
+**Update, 30 October:** Valtteri Bottas missed Thursday's media day through illness while Cadillac weighs its 2027 lineup. Read [where the Cadillac seat question stands](/articles/2026-10-30-bottas-misses-media-day-herta-fp1-cadillac-2027/).

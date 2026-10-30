@@ -1,7 +1,7 @@
 ---
 title: "2027 F1 seats still open: Bearman's Haas delay, Racing Bulls and Herta's Cadillac chance"
 date: 2026-10-27
-updatedAt: 2026-10-28
+updatedAt: 2026-10-30
 category: Driver Market
 summary: "Three 2027 race seats are still officially unconfirmed, and Cadillac's chief executive says there is always a chance for American Colton Herta. Here is where every open question stands."
 description: "Which 2027 F1 seats are still open: Oliver Bearman's delayed Haas deal, both Racing Bulls cars, and whether Colton Herta can still land a Cadillac race seat."
@@ -80,3 +80,5 @@ The same report says Yuki Tsunoda has also been linked with the seat, while Este
 ## What comes next
 
 Teams often finalize their lineups between the last few races and the end of the season. Mexico City is this weekend and the [Las Vegas Grand Prix](/articles/2026-10-27-las-vegas-gp-2026-times/) follows later in November. Our [Austin Cadillac report](/articles/2026-10-27-cadillac-austin-2027-lineup/) has the background on how the lineup question started.
+
+**Update, 30 October:** Oliver Bearman says staying at Haas is his target. Read [Bearman on his 2027 future](/articles/2026-10-30-bearman-haas-2027-future/) and [the latest on Cadillac and Bottas](/articles/2026-10-30-bottas-misses-media-day-herta-fp1-cadillac-2027/).

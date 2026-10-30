@@ -1,7 +1,7 @@
 ---
 title: "The fight for second: Russell, Hamilton, Verstappen and Leclerc are nine points apart"
 date: 2026-10-28
-updatedAt: 2026-10-28
+updatedAt: 2026-10-30
 category: Standings
 summary: "Antonelli is running away with the title, but the race for runner up is the closest in the table. Four drivers from three teams are covered by nine points with five rounds left."
 description: "F1 2026 standings: George Russell 242, Lewis Hamilton 241, Max Verstappen 236, Charles Leclerc 233. Who can finish second, what is left and why Verstappen is out of title contention."
@@ -87,3 +87,5 @@ Verstappen can no longer win the title. His 129 point deficit is bigger than the
 ## What to watch
 
 In Mexico City the order among these four could change in a single race, since a win is worth 25 points. Start times in Eastern, Central, Mountain and Pacific time are in our [Mexico City times guide](/articles/2026-10-27-mexico-city-gp-race-times-us/), with [São Paulo](/articles/2026-10-27-sao-paulo-gp-2026-times-us/) and [Las Vegas](/articles/2026-10-27-las-vegas-gp-2026-times/) to follow. If you are wondering what happens when drivers finish level on points, our [tiebreak rules explainer](/articles/2026-10-27-f1-tiebreak-rules-explained/) has the answer.
+
+**Update, 30 October:** George Russell explained his up and down season in Mexico City. Read [what Russell said about his form](/articles/2026-10-30-russell-inconsistent-season-mexico/), and see [why altitude could reshuffle the order](/articles/2026-10-30-mexico-city-altitude-turbo-lag-explained/).

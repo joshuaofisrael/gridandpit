@@ -1,7 +1,7 @@
 ---
 title: "Mexico City Grand Prix preview: five things US fans should watch this weekend"
 date: 2026-10-27
-updatedAt: 2026-10-27
+updatedAt: 2026-10-30
 category: News
 summary: "Antonelli can wrap up the title at altitude, Ferrari hopes the thin air helps, and Sergio Pérez brings Cadillac to his home race for his 300th start. Here is what to follow from the US."
 description: "Mexico City GP 2026 preview for US fans: Antonelli's title chance, Ferrari at altitude, Pérez's 300th start with Cadillac, weather and how to watch on Apple TV."
@@ -94,3 +94,5 @@ Sergio Pérez is back at his home race after missing it in 2025, and Sunday will
 ## How to watch in the US
 
 Apple TV is the exclusive US home of the sport this season, with every session streamed live, as [Apple](https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/) and the [BBC](https://www.bbc.com/sport/formula1/articles/cmde8xjl3xpwo) both note. Apple lists the subscription at $14.99 a month. The race starts at 2 PM local time on Sunday, per the [official timetable](https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ), which is 3 PM Eastern because US clocks fall back that same morning. Check our [times guide](/articles/2026-10-27-mexico-city-gp-race-times-us/) for your zone and the [latest standings](/articles/2026-10-27-f1-standings-after-austin/) before the lights go out.
+
+**Update, 30 October:** New from media day: [the turbo lag and altitude explainer](/articles/2026-10-30-mexico-city-altitude-turbo-lag-explained/) and [the row over Fernando Alonso's driving comments](/articles/2026-10-30-alonso-albon-midfield-driving-row/).
