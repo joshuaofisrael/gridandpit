@@ -1,9 +1,9 @@
 ---
-title: "Colton Herta's super license math: why Mexico City practice could bring his 40th point"
+title: "Colton Herta's super license math: why Mexico City practice left him on 39 points"
 date: 2026-10-28
-updatedAt: 2026-10-30
+updatedAt: 2026-10-31
 category: Driver Market
-summary: "Cadillac says Herta has 39 of the 40 super license points he needs. A documented count gives 38. Here is how the numbers work and what he has to do on Friday."
+summary: "Herta completed Mexico City FP1 but is on 39 of the 40 super license points he needs after IndyCar's 2025 standings were corrected. Here is how the numbers work."
 description: "How many super license points does Colton Herta have? Cadillac says 39, a documented count says 38. The IndyCar points, FP1 rule and 24 lap Mexico target explained."
 tags:
   - cadillac
@@ -53,6 +53,8 @@ sources:
 ---
 
 Colton Herta drives Valtteri Bottas's Cadillac in first practice at the Mexico City Grand Prix on Friday, October 30, the [team confirms](https://www.cadillacf1team.com/news/the-cadillac-formula-1-r-team-aim-to-reach-new-heights-in-mexico-city). For the American, the hour is about one number: 40, the super license points total a driver normally needs to race in Formula 1. Whether Friday gets him there depends on whose count you use.
+
+**Update, 31 October:** Herta completed first practice, but he is on 39 points, not 40. IndyCar's website had listed him sixth in 2025 instead of seventh, so the count below that started at 38 was the right one. Read [why Herta is still one point short](/articles/2026-10-31-colton-herta-still-one-point-short-super-license/) and [how all the FP1 rookies fared](/articles/2026-10-31-mexico-city-fp1-rookies-crawford-herta-tsolov-slater/).
 
 ## Two counts, one point apart
 

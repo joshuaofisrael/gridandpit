@@ -1,7 +1,7 @@
 ---
 title: "How Kimi Antonelli can clinch the 2026 title in Mexico City"
 date: 2026-10-27
-updatedAt: 2026-10-27
+updatedAt: 2026-10-31
 category: Rules Explainers
 summary: "Antonelli is champion in Mexico City if he finishes ninth or better, or if neither George Russell nor Lewis Hamilton wins the race. Here is the points math behind it."
 description: "Antonelli clinches the 2026 F1 title in Mexico if he finishes ninth or better, or if neither Russell nor Hamilton wins. The points math explained."
@@ -66,3 +66,5 @@ In practice, Sky Sports notes, Russell or Hamilton would need to win all five re
 Mercedes leads Ferrari by 133 points and also has a first mathematical chance to clinch the teams' title in Mexico City, [Sky Sports reports](https://www.skysports.com/f1/news/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday), though it calls that a very tall order that would require Mercedes to outscore Ferrari by 39 points.
 
 Race start times in your time zone are in our [Mexico City race times guide](/articles/2026-10-27-mexico-city-gp-race-times-us/).
+
+**Update, 31 October:** Antonelli was second in FP1 and fourth in FP2 behind Charles Leclerc. Read [our Friday practice report](/articles/2026-10-31-mexico-city-practice-leclerc-tops-both-sessions/).

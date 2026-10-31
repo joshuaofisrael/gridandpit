@@ -1,7 +1,7 @@
 ---
 title: "Bottas misses Mexico City media day as Cadillac weighs its 2027 lineup"
 date: 2026-10-30
-updatedAt: 2026-10-30
+updatedAt: 2026-10-31
 category: Driver Market
 summary: "Cadillac says Valtteri Bottas was unwell and rested on Thursday as a precaution. Colton Herta takes his car in first practice, and the question of who partners Sergio Perez in 2027 is still open."
 description: "Why did Valtteri Bottas miss Mexico City media day, is Colton Herta driving in FP1, and who will race for Cadillac in 2027 alongside Sergio Perez? Where things stand."
@@ -80,3 +80,5 @@ Asked on Thursday whether he wants Herta as a teammate, Perez told the [FIA pres
 ## Why it matters for US fans
 
 A Herta promotion would put an American driver in a race seat at the American team. For now, Cadillac says the illness does not currently affect the rest of Bottas's weekend, and it has given no timeline for a 2027 decision. Our [2027 open seats guide](/articles/2026-10-27-f1-2027-open-seats-bearman-herta/) tracks every unfilled drive.
+
+**Update, 31 October:** Bottas returned for second practice and will start Sunday's race from the back after new power unit parts. Read [our Bottas penalty story](/articles/2026-10-31-bottas-back-of-grid-mexico-power-unit-penalty/) and [why Herta is still one point short of a super license](/articles/2026-10-31-colton-herta-still-one-point-short-super-license/).
