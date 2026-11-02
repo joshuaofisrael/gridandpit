@@ -33,13 +33,24 @@
 {% else %}
 <meta property="og:type" content="website">
 {% endif %}
+{% set cardImageReady = hero and hero.src and (hero.src | imageFilesReady) %}
+{% if cardImageReady %}
+<meta property="og:image" content="{{ ('/assets/images/' ~ hero.src ~ '.webp') | absoluteUrl }}">
+<meta property="og:image:alt" content="{{ hero.alt }}">
+<meta property="og:image:width" content="{{ hero.width or 1200 }}">
+<meta property="og:image:height" content="{{ hero.height or 675 }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ ('/assets/images/' ~ hero.src ~ '.webp') | absoluteUrl }}">
+<meta name="twitter:image:alt" content="{{ hero.alt }}">
+{% else %}
 <meta property="og:image" content="{{ '/assets/logo.png' | absoluteUrl }}">
 <meta property="og:image:alt" content="Checkered squares and two lime stripes on a navy square, the Grid and Pit mark.">
 <meta property="og:image:width" content="192">
 <meta property="og:image:height" content="192">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{{ (seoTitle or title) | pageTitle }}">
-<meta name="twitter:description" content="{{ (description or summary) | metaDescription }}">
 <meta name="twitter:image" content="{{ '/assets/logo.png' | absoluteUrl }}">
 <meta name="twitter:image:alt" content="Checkered squares and two lime stripes on a navy square, the Grid and Pit mark.">
+{% endif %}
+<meta name="twitter:title" content="{{ (seoTitle or title) | pageTitle }}">
+<meta name="twitter:description" content="{{ (description or summary) | metaDescription }}">
 {% structuredData %}
