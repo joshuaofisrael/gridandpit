@@ -576,6 +576,19 @@ main:focus { outline: none; }
 
 .story-card:hover { border-color: #9BB4C4; }
 
+.story-card-thumb {
+  margin: -1.1rem -1.15rem 0.85rem;
+}
+
+.story-card-thumb picture,
+.story-card-thumb img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 15px 15px 0 0;
+}
+
 .story-kicker,
 .byline,
 .source-meta,

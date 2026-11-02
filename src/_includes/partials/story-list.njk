@@ -3,6 +3,15 @@
   {% for post in stories %}
   <li class="story-card">
     <article>
+      {% if post.data.hero and post.data.hero.src and (post.data.hero.src | imageFilesReady) %}
+      <figure class="story-card-thumb">
+        <picture>
+          <source srcset="{{ ('/assets/images/' ~ post.data.hero.src ~ '.avif') | url }}" type="image/avif">
+          <source srcset="{{ ('/assets/images/' ~ post.data.hero.src ~ '.webp') | url }}" type="image/webp">
+          <img src="{{ ('/assets/images/' ~ post.data.hero.src ~ '.webp') | url }}" alt="" width="1280" height="720" loading="lazy" decoding="async">
+        </picture>
+      </figure>
+      {% endif %}
       <p class="story-kicker">
         {% if post.data.draft %}<span class="badge">Unpublished draft</span>{% endif %}
         <a class="chip" href="{{ ('/topics/' ~ (post.data.category | categorySlug) ~ '/') | url }}">{% set iconName = post.data.category | categorySlug %}{% include "partials/section-icon.njk" %}{{ post.data.category }}</a>
