@@ -21,6 +21,7 @@ author: Grid and Pit
 hero:
   src: norris-pole-sao-paulo-rain-qualifying-hero
   alt: Rear of an unbadged open-wheel car with rain lights glowing in night spray
+  caption: AI generated image for Grid and Pit
   width: 1280
   height: 720
 images:
@@ -28,12 +29,14 @@ images:
   alt: 'Close crop: Rear of an unbadged open-wheel car with rain lights glowing in
     night spray'
   after: 2
+  caption: AI generated image for Grid and Pit
   width: 1280
   height: 720
 - src: norris-pole-sao-paulo-rain-qualifying-2
   alt: 'Wider view: Rear of an unbadged open-wheel car with rain lights glowing in
     night spray'
   after: 4
+  caption: AI generated image for Grid and Pit
   width: 1280
   height: 720
 sources:
