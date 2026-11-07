@@ -17,17 +17,20 @@ author: Grid and Pit
 hero:
   src: sao-paulo-qualifying-red-flag-rain-hero
   alt: Wet red-and-white chicane kerbs with puddles and tire marks
+  caption: AI generated image for Grid and Pit
   width: 1280
   height: 720
 images:
 - src: sao-paulo-qualifying-red-flag-rain-1
   alt: 'Close crop: Wet red-and-white chicane kerbs with puddles and tire marks'
   after: 2
+  caption: AI generated image for Grid and Pit
   width: 1280
   height: 720
 - src: sao-paulo-qualifying-red-flag-rain-2
   alt: 'Wider view: Wet red-and-white chicane kerbs with puddles and tire marks'
   after: 4
+  caption: AI generated image for Grid and Pit
   width: 1280
   height: 720
 sources:
@@ -47,13 +50,13 @@ sources:
 
 Formula 1 red-flagged Sao Paulo Grand Prix qualifying after torrential rain hit Interlagos on Saturday.
 
-The championship [posted the halt on X](https://x.com/F1/status/2119128977105424683):
+The championship [posted the halt on X](https://x.com/F1):
 
 > "🔴 RED FLAG 🔴
 >
 > The rain is crazy and the session is halted! ✋"
 
-Minutes earlier, F1 [said qualifying had gone green](https://x.com/F1/status/2119128261573935550) with rain intensifying and several drivers pulling in to switch to full wets before heading out.
+Minutes earlier, F1 [said qualifying had gone green](https://x.com/F1) with rain intensifying and several drivers pulling in to switch to full wets before heading out.
 
 ## Why the session stopped
 
@@ -63,6 +66,6 @@ A restart time had not been confirmed in F1's red-flag post. Further rain contin
 
 ## Context for the grid
 
-The delay lands on a weekend already shaped by grid penalties for several drivers, including Lewis Hamilton and Max Verstappen starting from the back and George Russell taking a five-place drop. Dark weather had been building since practice; F1 had also [posted](https://x.com/F1/status/2119106554829951360) pre-quali storm images over Interlagos earlier in the afternoon.
+The delay lands on a weekend already shaped by grid penalties for several drivers, including Lewis Hamilton and Max Verstappen starting from the back and George Russell taking a five-place drop. Dark weather had been building since practice; F1 had also [posted](https://x.com/F1) pre-quali storm images over Interlagos earlier in the afternoon.
 
-Primary source: Formula 1's [red-flag post on X](https://x.com/F1/status/2119128977105424683). Treat any later restart or provisional classification as unconfirmed until F1 or the FIA posts it.
+Primary source: Formula 1's red-flag post on X (exact URL under Sources). Treat any later restart or provisional classification as unconfirmed until F1 or the FIA posts it.
