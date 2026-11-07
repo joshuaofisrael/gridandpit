@@ -17,6 +17,19 @@ hero:
   caption: "AI generated image for Grid and Pit"
   width: 1280
   height: 720
+images:
+  - src: vasseur-hamilton-leclerc-meeting-sao-paulo-2026-1
+    alt: "Close crop of empty pit lane and stacked tyres at dusk"
+    caption: "AI generated image for Grid and Pit"
+    after: 2
+    width: 1280
+    height: 720
+  - src: vasseur-hamilton-leclerc-meeting-sao-paulo-2026-2
+    alt: "Wider view of lit pit garages along an empty pit lane at dusk"
+    caption: "AI generated image for Grid and Pit"
+    after: 4
+    width: 1280
+    height: 720
 sources:
   - title: "Ferrari boss Frederic Vasseur confirms Lewis Hamilton, Charles Leclerc meeting after Mexico clash ahead of Sao Paulo GP"
     url: "https://www.skysports.com/f1/news/13608869/ferrari-boss-frederic-vasseur-confirms-lewis-hamilton-charles-leclerc-meeting-after-mexico-clash-ahead-of-sao-paulo-gp"
