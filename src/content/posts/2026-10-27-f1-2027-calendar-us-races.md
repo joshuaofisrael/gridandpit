@@ -1,7 +1,7 @@
 ---
 title: "2027 F1 calendar: dates for Miami, Austin and Las Vegas, and why none of them has a Sprint"
 date: 2026-10-27
-updatedAt: 2026-10-27
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: News
 summary: "The 2027 calendar has 24 Grands Prix and 10 Sprints. Miami runs April 30 to May 2, Austin October 22 to 24 and Las Vegas November 18 to 20, and all three are standard weekends."
 description: "2027 F1 calendar for US fans: Miami Apr 30 to May 2, Austin Oct 22 to 24, Las Vegas Nov 18 to 20. 24 races, 10 Sprints, none at the three US rounds."
@@ -78,4 +78,4 @@ The [official ticket store](https://ticketing.formula1.com/las-vegas/) already l
 
 ## This season first
 
-Before 2027, there is a title to settle. The 2026 Las Vegas Grand Prix runs on Saturday, November 21, and our [Las Vegas times guide](/articles/2026-10-27-las-vegas-gp-2026-times/) has every session in US time. The [Austin hub](/hubs/austin/) and [Las Vegas hub](/hubs/las-vegas/) collect the rest of our US race coverage.
+Before 2027, there is a title to settle. The 2026 Las Vegas Grand Prix runs on Saturday, November 21, and our [Las Vegas times guide](/articles/2026-10-27-las-vegas-gp-2026-times/) has every session in US time. The [Austin hub](/hubs/austin/) and [Las Vegas hub](/hubs/las-vegas/) collect the rest of our US race coverage. F1 Academy has also [published its seven-round 2027 calendar](/articles/2026-11-11-f1-academy-unveils-2027-calendar/).

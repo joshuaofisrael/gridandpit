@@ -1,7 +1,7 @@
 ---
 title: Hulkenberg recovers from penalty to take tenth as Audi closes on Haas
 date: '2026-11-10'
-updatedAt: '2026-11-10'
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: Results
 summary: Nico Hulkenberg served a 10 second penalty and passed Arvid Lindblad late
   to score the final point at Interlagos, cutting Audi's gap to Haas to three points.
@@ -66,4 +66,4 @@ Team mate Gabriel Bortoleto finished sixteenth at his home race after crashing e
 
 The result cut Audi's deficit to Haas in the fight for seventh in the constructors' championship to three points. With the field this close in the midfield, a single point can decide a place in the final table, and with it a share of prize money.
 
-Grid and Pit's [race report](/articles/2026-11-09-norris-wins-sao-paulo-verstappen-second/) has the full Sao Paulo result.
+Grid and Pit's [race report](/articles/2026-11-09-norris-wins-sao-paulo-verstappen-second/) has the full Sao Paulo result. After that stretch, Haas driver Ollie Bearman called the team's last three races a ["horrible three weeks"](/articles/2026-11-11-bearman-horrible-three-weeks-haas/).

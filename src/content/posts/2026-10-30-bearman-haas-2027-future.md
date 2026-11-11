@@ -1,7 +1,7 @@
 ---
 title: "Bearman says staying at Haas for 2027 is his target and the team is finalizing details"
 date: 2026-10-30
-updatedAt: 2026-10-30
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: Driver Market
 summary: "Oliver Bearman told Thursday's Mexico City press conference that continuing with Haas is his clear goal for 2027, and that the timing of any announcement is out of his hands."
 description: "Is Oliver Bearman staying at Haas in 2027? At the Mexico City GP he said he wants to continue and is finalizing a few things, alongside new teammate Rafael Camara."
@@ -61,4 +61,4 @@ Mexico City is where Bearman took fourth place last year, still his best finish.
 
 Bearman said Haas is fighting for seventh in the constructors' championship, and he cares more about that than his own position. "The delta in prize money between P7 and P8 is significant. It will affect how fast the car is next year and in the future," he said.
 
-Our [2027 open seats guide](/articles/2026-10-27-f1-2027-open-seats-bearman-herta/) and [driver market tracker](/articles/2026-10-27-f1-2027-driver-market/) have the full picture, including the Cadillac seat now in focus after [Valtteri Bottas missed media day](/articles/2026-10-30-bottas-misses-media-day-herta-fp1-cadillac-2027/).
+Our [2027 open seats guide](/articles/2026-10-27-f1-2027-open-seats-bearman-herta/) and [driver market tracker](/articles/2026-10-27-f1-2027-driver-market/) have the full picture, including the Cadillac seat now in focus after [Valtteri Bottas missed media day](/articles/2026-10-30-bottas-misses-media-day-herta-fp1-cadillac-2027/). After the Sao Paulo weekend, Bearman called Haas's recent stretch a ["horrible three weeks"](/articles/2026-11-11-bearman-horrible-three-weeks-haas/).
