@@ -1,7 +1,7 @@
 ---
 title: "Las Vegas Grand Prix 2026 schedule in ET, CT, MT and PT"
 date: 2026-10-27
-updatedAt: 2026-10-27
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: News
 summary: "The 2026 Las Vegas Grand Prix starts Saturday, November 21 at 8 PM Pacific, which is 11 PM Eastern. Here is every session in US time zones."
 description: "Las Vegas GP 2026 race starts Saturday Nov 21 at 8 PM PT, 9 PM MT, 10 PM CT, 11 PM ET. Practice and qualifying times in US time zones."
@@ -54,4 +54,4 @@ Daylight saving time will already have ended by race week, so every session belo
 
 All sessions fall on the same calendar day in every continental US time zone. Grid and Pit converted the times from the official local schedule and UTC offset. The [event's own schedule page](https://www.f1lasvegasgp.com/schedule/) lists the full weekend program, including support races.
 
-Las Vegas is round 21 of the 2026 season, after Mexico City and Brazil. If Kimi Antonelli has not clinched the title by then, the title math in our [Mexico City scenarios explainer](/articles/2026-10-27-antonelli-title-mexico-scenarios/) still applies. Mexico City times are in our [race times guide](/articles/2026-10-27-mexico-city-gp-race-times-us/).
+Las Vegas is round 21 of the 2026 season, after Mexico City and Brazil. If Kimi Antonelli has not clinched the title by then, the title math in our [Mexico City scenarios explainer](/articles/2026-10-27-antonelli-title-mexico-scenarios/) still applies. Mexico City times are in our [race times guide](/articles/2026-10-27-mexico-city-gp-race-times-us/). Apple TV later said it would [stream the full Las Vegas Grand Prix weekend free in the United States](/articles/2026-11-11-apple-tv-free-las-vegas-gp-weekend-us/).
