@@ -23,11 +23,13 @@ hero:
 images:
 - src: what-is-drs-in-f1-1
   alt: 'Close crop: Long empty desert circuit straight with heat haze'
+  caption: AI generated image for Grid and Pit
   after: 2
   width: 1280
   height: 720
 - src: what-is-drs-in-f1-2
   alt: 'Wider view: Long empty desert circuit straight with heat haze'
+  caption: AI generated image for Grid and Pit
   after: 4
   width: 1280
   height: 720

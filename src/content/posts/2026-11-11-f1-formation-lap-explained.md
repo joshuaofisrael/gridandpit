@@ -23,11 +23,13 @@ hero:
 images:
 - src: f1-formation-lap-explained-1
   alt: 'Close crop: Pack of open-wheel cars on a dusk formation lap'
+  caption: AI generated image for Grid and Pit
   after: 2
   width: 1280
   height: 720
 - src: f1-formation-lap-explained-2
   alt: 'Wider view: Pack of open-wheel cars on a dusk formation lap'
+  caption: AI generated image for Grid and Pit
   after: 4
   width: 1280
   height: 720
