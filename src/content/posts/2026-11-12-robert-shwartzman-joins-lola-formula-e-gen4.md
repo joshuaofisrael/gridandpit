@@ -1,7 +1,7 @@
 ---
 title: Robert Shwartzman joins Lola for his first Formula E season in the Gen4 era
-date: '2026-11-12T13:20:00.000Z'
-updatedAt: '2026-11-12T13:20:00.000Z'
+date: '2026-11-12T13:10:00.000Z'
+updatedAt: '2026-11-12T13:10:00.000Z'
 category: News
 summary: Former Ferrari junior and 2025 Indy 500 polesitter Robert Shwartzman has
   signed with Lola Formula E for 2027 and will combine it with a World Endurance Championship

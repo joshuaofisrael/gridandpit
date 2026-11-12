@@ -1,7 +1,7 @@
 ---
 title: George Russell launches a karting academy for 8- and 9-year-olds at Silverstone
-date: '2026-11-12T13:50:00.000Z'
-updatedAt: '2026-11-12T13:50:00.000Z'
+date: '2026-11-12T13:25:00.000Z'
+updatedAt: '2026-11-12T13:25:00.000Z'
 category: News
 summary: The Mercedes driver's GR63 Karting Academy opens with £25 qualifying sessions
   at Kart Silverstone in December and ends with 25 young drivers in a fully funded
