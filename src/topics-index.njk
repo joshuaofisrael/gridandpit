@@ -1,0 +1,37 @@
+---
+layout: layouts/page.njk
+title: Topics
+seoTitle: "F1 topic hubs · Grid and Pit"
+summary: Browse Grid and Pit by desk and by the American races. Each hub lists sourced Formula 1 stories, with session times in ET, CT, MT and PT.
+updatedAt: 2026-11-12
+permalink: /topics/
+---
+<p>These pages group our Formula 1 reporting by desk, and by the three American grands prix plus Cadillac. Every story links the public source for each fact.</p>
+<h2>Desks</h2>
+<ul class="story-list">
+{% for item in site.categories %}
+  {% set stories = collections.posts | whereCategory(item.name) %}
+  <li>
+    <article class="story">
+      <div class="story-copy">
+        <p class="kicker">{{ stories.length }} {{ "story" if stories.length == 1 else "stories" }}</p>
+        <h2 class="story-title"><a href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">{{ item.name }}</a></h2>
+        <p class="deck">{{ item.hubIntro }}</p>
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ul>
+<h2>American race and team hubs</h2>
+<ul class="story-list">
+{% for hub in site.hubs %}
+  <li>
+    <article class="story">
+      <div class="story-copy">
+        <h2 class="story-title"><a href="{{ ('/hubs/' ~ hub.slug ~ '/') | url }}">{{ hub.title }}</a></h2>
+        <p class="deck">{{ hub.intro }}</p>
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ul>
