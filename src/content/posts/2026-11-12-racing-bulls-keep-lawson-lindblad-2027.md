@@ -1,7 +1,7 @@
 ---
 title: Racing Bulls keep Liam Lawson and Arvid Lindblad for 2027
-date: '2026-11-12T14:00:00.000Z'
-updatedAt: '2026-11-12T14:00:00.000Z'
+date: '2026-11-12T13:30:00.000Z'
+updatedAt: '2026-11-12T13:30:00.000Z'
 category: Driver Market
 summary: Racing Bulls said on 12 November that Liam Lawson and Arvid Lindblad will
   stay as its drivers in 2027, ending talk that Red Bull junior Nikola Tsolov could

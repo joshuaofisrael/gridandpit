@@ -1,8 +1,8 @@
 ---
 title: Ganassi signs Alessandro de Tullio for Indy NXT and an IndyCar reserve role
   in 2027
-date: '2026-11-12T13:10:00.000Z'
-updatedAt: '2026-11-12T13:10:00.000Z'
+date: '2026-11-12T13:05:00.000Z'
+updatedAt: '2026-11-12T13:05:00.000Z'
 category: News
 summary: The 20-year-old Argentine, who took eight Indy NXT poles as a rookie, will
   drive Chip Ganassi Racing's No. 10 entry and serve as its IndyCar reserve on road

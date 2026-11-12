@@ -1,8 +1,8 @@
 ---
 title: Formula E moves Jeddah to April, so Mexico City opens the Gen4 season on 16
   January
-date: '2026-11-12T13:40:00.000Z'
-updatedAt: '2026-11-12T13:40:00.000Z'
+date: '2026-11-12T13:20:00.000Z'
+updatedAt: '2026-11-12T13:20:00.000Z'
 category: News
 summary: Formula E has postponed its Jeddah double-header from 18-19 December to 16-17
   April 2027 and moved Sanya up to 3 April, leaving Mexico City as the opener and

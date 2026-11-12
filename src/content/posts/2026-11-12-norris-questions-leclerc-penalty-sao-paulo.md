@@ -1,7 +1,7 @@
 ---
 title: Norris questions Leclerc's five-second Sao Paulo penalty for contact with Lawson
-date: '2026-11-12T13:30:00.000Z'
-updatedAt: '2026-11-12T13:30:00.000Z'
+date: '2026-11-12T13:15:00.000Z'
+updatedAt: '2026-11-12T13:15:00.000Z'
 category: News
 summary: Race winner Lando Norris said on a Twitch stream that Charles Leclerc's late
   contact with Liam Lawson at Interlagos was 'just racing', disagreeing with the stewards
