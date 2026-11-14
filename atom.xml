@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Grid and Pit</title>
+  <id>https://gridandpit.com/</id>
+  <updated>2026-11-14T14:30:48.009Z</updated>
+  <link rel="self" href="https://gridandpit.com/atom.xml"/>
+  <link rel="alternate" href="https://gridandpit.com/"/>
+  <author><name>Grid and Pit</name></author>
+
+  <entry>
+    <title>Audi&#39;s appeal over Tsunoda&#39;s Monza point to be heard by the FIA on 25 November</title>
+    <id>https://gridandpit.com/articles/2026-11-14-audi-appeal-tsunoda-monza-point-hearing-25-november/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-14-audi-appeal-tsunoda-monza-point-hearing-25-november/"/>
+    <updated>2026-11-14T13:55:00.000Z</updated>
+    <published>2026-11-14T13:55:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The FIA International Court of Appeal will hear Audi&#39;s case in Paris. If it succeeds, Gabriel Bortoleto could move into 10th place and take the final point from the Italian Grand Prix.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>Williams&#39; &#39;ADUO for teams&#39; cost cap plan goes to Monday&#39;s F1 Commission</title>
+    <id>https://gridandpit.com/articles/2026-11-14-vowles-aduo-for-teams-cost-cap-plan-f1-commission/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-14-vowles-aduo-for-teams-cost-cap-plan-f1-commission/"/>
+    <updated>2026-11-14T13:45:00.000Z</updated>
+    <published>2026-11-14T13:45:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>James Vowles wants a sliding scale that lets teams outside the top four spend more under the cost cap. Only four other teams back it so far, so 2028 looks more realistic than 2027.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>Nikola Tsolov named reserve driver for Red Bull and Racing Bulls in 2027</title>
+    <id>https://gridandpit.com/articles/2026-11-13-nikola-tsolov-red-bull-racing-bulls-reserve-driver-2027/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-13-nikola-tsolov-red-bull-racing-bulls-reserve-driver-2027/"/>
+    <updated>2026-11-13T13:50:00.000Z</updated>
+    <published>2026-11-13T13:50:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Red Bull has made the 19-year-old Bulgarian reserve for both of its Formula 1 teams next year, with simulator work, practice outings and older-car testing, after Racing Bulls kept Lawson and Lindblad.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>F1 Academy champion Alisha Palmowski joins Red Bull Junior Team and moves up to FREC with Rodin</title>
+    <id>https://gridandpit.com/articles/2026-11-13-alisha-palmowski-red-bull-junior-team-frec-rodin-2027/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-13-alisha-palmowski-red-bull-junior-team-frec-rodin-2027/"/>
+    <updated>2026-11-13T13:40:00.000Z</updated>
+    <published>2026-11-13T13:40:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The 20-year-old Briton gets a fully funded 2027 seat in the Formula Regional European Championship with Rodin Motorsport, backed by Red Bull and F1 Academy.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>Racing Bulls keep Liam Lawson and Arvid Lindblad for 2027</title>
+    <id>https://gridandpit.com/articles/2026-11-12-racing-bulls-keep-lawson-lindblad-2027/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-12-racing-bulls-keep-lawson-lindblad-2027/"/>
+    <updated>2026-11-12T13:30:00.000Z</updated>
+    <published>2026-11-12T13:30:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Racing Bulls said on 12 November that Liam Lawson and Arvid Lindblad will stay as its drivers in 2027, ending talk that Red Bull junior Nikola Tsolov could take Lawson&#39;s seat.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>George Russell launches a karting academy for 8- and 9-year-olds at Silverstone</title>
+    <id>https://gridandpit.com/articles/2026-11-12-george-russell-gr63-karting-academy-silverstone/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-12-george-russell-gr63-karting-academy-silverstone/"/>
+    <updated>2026-11-12T13:25:00.000Z</updated>
+    <published>2026-11-12T13:25:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The Mercedes driver&#39;s GR63 Karting Academy opens with £25 qualifying sessions at Kart Silverstone in December and ends with 25 young drivers in a fully funded 2027 championship.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Formula E moves Jeddah to April, so Mexico City opens the Gen4 season on 16 January</title>
+    <id>https://gridandpit.com/articles/2026-11-12-formula-e-moves-jeddah-mexico-city-opens-gen4-season/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-12-formula-e-moves-jeddah-mexico-city-opens-gen4-season/"/>
+    <updated>2026-11-12T13:20:00.000Z</updated>
+    <published>2026-11-12T13:20:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula E has postponed its Jeddah double-header from 18-19 December to 16-17 April 2027 and moved Sanya up to 3 April, leaving Mexico City as the opener and Austin as round two.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Norris questions Leclerc&#39;s five-second Sao Paulo penalty for contact with Lawson</title>
+    <id>https://gridandpit.com/articles/2026-11-12-norris-questions-leclerc-penalty-sao-paulo/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-12-norris-questions-leclerc-penalty-sao-paulo/"/>
+    <updated>2026-11-12T13:15:00.000Z</updated>
+    <published>2026-11-12T13:15:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Race winner Lando Norris said on a Twitch stream that Charles Leclerc&#39;s late contact with Liam Lawson at Interlagos was &#39;just racing&#39;, disagreeing with the stewards who dropped Leclerc to eighth.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Robert Shwartzman joins Lola for his first Formula E season in the Gen4 era</title>
+    <id>https://gridandpit.com/articles/2026-11-12-robert-shwartzman-joins-lola-formula-e-gen4/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-12-robert-shwartzman-joins-lola-formula-e-gen4/"/>
+    <updated>2026-11-12T13:10:00.000Z</updated>
+    <published>2026-11-12T13:10:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Former Ferrari junior and 2025 Indy 500 polesitter Robert Shwartzman has signed with Lola Formula E for 2027 and will combine it with a World Endurance Championship drive.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Ganassi signs Alessandro de Tullio for Indy NXT and an IndyCar reserve role in 2027</title>
+    <id>https://gridandpit.com/articles/2026-11-12-ganassi-signs-de-tullio-indy-nxt-indycar-reserve/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-12-ganassi-signs-de-tullio-indy-nxt-indycar-reserve/"/>
+    <updated>2026-11-12T13:05:00.000Z</updated>
+    <published>2026-11-12T13:05:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The 20-year-old Argentine, who took eight Indy NXT poles as a rookie, will drive Chip Ganassi Racing&#39;s No. 10 entry and serve as its IndyCar reserve on road and street courses.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Bearman calls Haas&#39;s last three races a &#39;horrible three weeks&#39; after finishing 17th in Sao Paulo</title>
+    <id>https://gridandpit.com/articles/2026-11-11-bearman-horrible-three-weeks-haas/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-11-bearman-horrible-three-weeks-haas/"/>
+    <updated>2026-11-11T18:40:00.000Z</updated>
+    <published>2026-11-11T18:40:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>In an 11 November Formula1.com interview, Ollie Bearman said he just wanted to go home and reset after a Sao Paulo finish of 17th and two earlier retirements for Haas.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>F1 Academy unveils a seven-round 2027 calendar, with a first visit to the Hungaroring</title>
+    <id>https://gridandpit.com/articles/2026-11-11-f1-academy-unveils-2027-calendar/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-11-f1-academy-unveils-2027-calendar/"/>
+    <updated>2026-11-11T18:00:00.000Z</updated>
+    <published>2026-11-11T18:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The all-female series said on 10 November that its fifth season will start in Jeddah in March and end in Las Vegas in November, adding Budapest as the 17th circuit on the calendar.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>F1 tells Imola it is not needed, and plans to finish 2026 in Qatar and Abu Dhabi</title>
+    <id>https://gridandpit.com/articles/2026-11-11-f1-drops-imola-standby-qatar-abu-dhabi-proceed/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-11-f1-drops-imola-standby-qatar-abu-dhabi-proceed/"/>
+    <updated>2026-11-11T14:45:00.000Z</updated>
+    <published>2026-11-11T14:45:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1 informed Imola on 10 November that the circuit will not be required as a season-ending standby, Sky Sports reported, confirming the planned Qatar and Abu Dhabi finales unless the security situation changes.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Apple TV to stream the full Las Vegas Grand Prix weekend free in the United States</title>
+    <id>https://gridandpit.com/articles/2026-11-11-apple-tv-free-las-vegas-gp-weekend-us/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-11-apple-tv-free-las-vegas-gp-weekend-us/"/>
+    <updated>2026-11-11T14:40:00.000Z</updated>
+    <published>2026-11-11T14:40:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Grandprix.com reported on 10 November that U.S. viewers can watch practice, qualifying and the 21 November night race on Apple TV without a subscription, under Apple&#39;s first season of U.S. Formula 1 rights.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>What Happened to DRS? F1&#39;s 2026 Active Aero and Overtake Mode Explained</title>
+    <id>https://gridandpit.com/articles/2026-11-11-what-is-drs-in-f1/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-11-what-is-drs-in-f1/"/>
+    <updated>2026-11-11T00:00:00.000Z</updated>
+    <published>2026-11-11T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>DRS is gone from Formula 1 in 2026. Here&#39;s how Straight Mode active aero and the new Overtake Mode work, how the one-second detection rule carried over, and why Monaco runs without active aero.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>The F1 Formation Lap and Race Start, Step by Step</title>
+    <id>https://gridandpit.com/articles/2026-11-11-f1-formation-lap-explained/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-11-f1-formation-lap-explained/"/>
+    <updated>2026-11-11T00:00:00.000Z</updated>
+    <published>2026-11-11T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>What happens between the grid countdown and lights out in Formula 1: the 10-minute to 15-second signals, the formation lap rules, five red lights, aborted starts and extra formation laps, and the 2026 pre-start tweak.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>Hulkenberg recovers from penalty to take tenth as Audi closes on Haas</title>
+    <id>https://gridandpit.com/articles/2026-11-10-hulkenberg-audi-brazil-point/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-10-hulkenberg-audi-brazil-point/"/>
+    <updated>2026-11-10T00:00:00.000Z</updated>
+    <published>2026-11-10T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Nico Hulkenberg served a 10 second penalty and passed Arvid Lindblad late to score the final point at Interlagos, cutting Audi&#39;s gap to Haas to three points.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>Alonso hails &#39;phenomenal&#39; Aston Martin in Brazil despite missing the points</title>
+    <id>https://gridandpit.com/articles/2026-11-10-alonso-aston-martin-brazil-pace/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-10-alonso-aston-martin-brazil-pace/"/>
+    <updated>2026-11-10T00:00:00.000Z</updated>
+    <published>2026-11-10T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Fernando Alonso qualified in the top ten for the first time this season and finished twelfth at Interlagos, while Lance Stroll retired with another battery issue.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Norris wins wet Sao Paulo Grand Prix as Verstappen charges from P21 to second</title>
+    <id>https://gridandpit.com/articles/2026-11-09-norris-wins-sao-paulo-verstappen-second/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-09-norris-wins-sao-paulo-verstappen-second/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Official classification: Norris won by 14.602s from Verstappen and Hadjar. Leclerc&#39;s post-race penalty handed P7 to Lawson, and Hamilton finished ninth on his 400th start.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>Mercedes clinch 2026 constructors&#39; title in Sao Paulo despite spins for both drivers</title>
+    <id>https://gridandpit.com/articles/2026-11-09-mercedes-clinches-constructors-title-sao-paulo/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-09-mercedes-clinches-constructors-title-sao-paulo/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Russell&#39;s fourth and Antonelli&#39;s fifth at Interlagos sealed Mercedes&#39; first constructors&#39; championship since 2021, one weekend after Antonelli won the drivers&#39; title.</summary>
+    <category term="Standings"/>
+  </entry>
+
+  <entry>
+    <title>Mekies: Verstappen&#39;s P21-to-P2 drive in Brazil beat Red Bull&#39;s own simulations</title>
+    <id>https://gridandpit.com/articles/2026-11-09-hadjar-verstappen-red-bull-double-podium/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-09-hadjar-verstappen-red-bull-double-podium/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Red Bull&#39;s Laurent Mekies said no sim predicted Verstappen gaining 14 places in five laps, explained why Hadjar was not given P2 back, and called it Hadjar&#39;s best race for the team.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Verstappen and Perez start at the back in Sao Paulo as five penalties reshape the grid</title>
+    <id>https://gridandpit.com/articles/2026-11-08-verstappen-perez-back-of-grid-sao-paulo-power-unit/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-08-verstappen-perez-back-of-grid-sao-paulo-power-unit/"/>
+    <updated>2026-11-08T00:00:00.000Z</updated>
+    <published>2026-11-08T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Max Verstappen and Sergio Perez will start 21st and 22nd at Interlagos after power unit penalties, with Lewis Hamilton 20th. Here is the full provisional grid after five drivers took grid drops.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Ferrari confirm Leclerc starts 14th and Hamilton 20th in Sao Paulo after penalties</title>
+    <id>https://gridandpit.com/articles/2026-11-08-ferrari-leclerc-p14-hamilton-p20-sao-paulo-grid/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-08-ferrari-leclerc-p14-hamilton-p20-sao-paulo-grid/"/>
+    <updated>2026-11-08T00:00:00.000Z</updated>
+    <published>2026-11-08T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Ferrari posted that Charles Leclerc starts the Sao Paulo Grand Prix from P14 and Lewis Hamilton from P20 after power unit penalties. Leclerc took a 10-place drop; Hamilton&#39;s full power unit change sent him to the back.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Norris takes Sao Paulo pole in rain-hit qualifying as Russell and Leclerc drop back</title>
+    <id>https://gridandpit.com/articles/2026-11-07-norris-pole-sao-paulo-rain-qualifying/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-07-norris-pole-sao-paulo-rain-qualifying/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Lando Norris took pole for the Sao Paulo Grand Prix with a 1:27.470 in wet qualifying at Interlagos. Grid penalties for George Russell and Charles Leclerc reshuffle the front of Sunday&#39;s grid.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Sao Paulo qualifying red-flagged as torrential rain hits Interlagos</title>
+    <id>https://gridandpit.com/articles/2026-11-07-sao-paulo-qualifying-red-flag-rain/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-07-sao-paulo-qualifying-red-flag-rain/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1 red-flagged Sao Paulo Grand Prix qualifying after torrential rain at Interlagos. Q1 was halted within minutes with no flying laps completed.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Hamilton&#39;s FP3 ends early with smoke in the cockpit as Verstappen tops Interlagos practice</title>
+    <id>https://gridandpit.com/articles/2026-11-07-hamilton-fp3-smoke-cockpit-sao-paulo/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-07-hamilton-fp3-smoke-cockpit-sao-paulo/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Lewis Hamilton returned to the pits with around 25 minutes of Sao Paulo FP3 left after reporting smoke in the cockpit of his Ferrari, while Max Verstappen set the fastest time of 1:11.622.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Vasseur says Ferrari meeting with Hamilton and Leclerc after Mexico clash went well</title>
+    <id>https://gridandpit.com/articles/2026-11-07-vasseur-hamilton-leclerc-meeting-sao-paulo-2026/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-07-vasseur-hamilton-leclerc-meeting-sao-paulo-2026/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Ferrari team principal Frédéric Vasseur said a Thursday-evening meeting at Interlagos with Lewis Hamilton and Charles Leclerc after their Mexico lap-1 Turn 4 clash went well, with guidelines unchanged and a clear message to put the team first.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Sao Paulo Saturday: FP3, qualifying times and unsettled weather</title>
+    <id>https://gridandpit.com/articles/2026-11-07-sao-paulo-saturday-fp3-qualifying-schedule-weather/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-07-sao-paulo-saturday-fp3-qualifying-schedule-weather/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1’s Sao Paulo Saturday brings FP3 at 11:30 local and qualifying at 15:00, with warmer temperatures and a rising chance of showers around Interlagos.</summary>
+    <category term="Race Times"/>
+  </entry>
+
+  <entry>
+    <title>Hamilton says Ferrari will dig into Friday data before Sao Paulo qualifying</title>
+    <id>https://gridandpit.com/articles/2026-11-07-hamilton-friday-data-sao-paulo/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-07-hamilton-friday-data-sao-paulo/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Scuderia Ferrari posted Lewis Hamilton saying the team gathered useful Friday data at Interlagos and would work overnight to improve the car before qualifying.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Antonelli tops Sao Paulo FP2 ahead of Norris and Verstappen</title>
+    <id>https://gridandpit.com/articles/2026-11-07-antonelli-fp2-sao-paulo/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-07-antonelli-fp2-sao-paulo/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1 said Kimi Antonelli ended Friday FP2 on top at Interlagos, ahead of Lando Norris and Max Verstappen. Mercedes confirmed Antonelli P1 and George Russell P4.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>George Russell set for a five-place grid penalty at Sao Paulo for a fresh Mercedes engine</title>
+    <id>https://gridandpit.com/articles/2026-11-06-russell-five-place-grid-penalty-sao-paulo-2026/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-06-russell-five-place-grid-penalty-sao-paulo-2026/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Sky Sports F1 said George Russell will take a five-place grid penalty at the Sao Paulo Grand Prix for a fresh Mercedes internal combustion engine, his second power-unit related drop since Singapore.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Kimi Antonelli says 2027 title defence preparation starts in Sao Paulo</title>
+    <id>https://gridandpit.com/articles/2026-11-06-kimi-antonelli-2027-prep-sao-paulo/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-06-kimi-antonelli-2027-prep-sao-paulo/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The newly crowned Formula 1 champion is treating the final races of 2026 as the first stage of his effort to retain the title next season, BBC Sport reports.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Lewis Hamilton set for his 400th Grand Prix start in Brazil</title>
+    <id>https://gridandpit.com/articles/2026-11-06-hamilton-400th-grand-prix-brazil/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-06-hamilton-400th-grand-prix-brazil/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1 said Lewis Hamilton will start his 400th Grand Prix at the Sao Paulo weekend, another landmark in a career already packed with milestones.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Alan Permane extends as Racing Bulls team principal through 2031</title>
+    <id>https://gridandpit.com/articles/2026-11-06-alan-permane-racing-bulls-2031/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-06-alan-permane-racing-bulls-2031/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Visa Cash App Racing Bulls said Alan Permane will stay as team principal and Co CEO Sporting until 2031. Formula 1&#39;s site confirmed the long term deal.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>1980 Formula 1 World Champion Alan Jones Dies Aged 80</title>
+    <id>https://gridandpit.com/articles/2026-11-05-alan-jones-dies-aged-80-williams-1980-champion/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-05-alan-jones-dies-aged-80-williams-1980-champion/"/>
+    <updated>2026-11-05T00:00:00.000Z</updated>
+    <published>2026-11-05T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Alan Jones, Australia&#39;s 1980 Formula 1 world champion and Williams&#39; first title winner, has died aged 80 after a short illness; F1, Williams and Motorsport Australia paid tribute on 5 Nov 2026.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Haas Drops Esteban Ocon as Rafael Câmara Gets Home Formula 1 Debut in Brazil</title>
+    <id>https://gridandpit.com/articles/2026-11-04-haas-drops-ocon-rafael-camara-brazil-debut/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-04-haas-drops-ocon-rafael-camara-brazil-debut/"/>
+    <updated>2026-11-04T00:00:00.000Z</updated>
+    <published>2026-11-04T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Haas has ended Esteban Ocon’s 2026 racing duties and will hand Brazilian prospect Rafael Câmara his Formula 1 debut at this weekend’s São Paulo Grand Prix,...</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>F1 points system explained: how drivers and teams score</title>
+    <id>https://gridandpit.com/articles/2026-11-03-f1-points-system-explained/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-03-f1-points-system-explained/"/>
+    <updated>2026-11-03T11:00:00.000Z</updated>
+    <published>2026-11-03T11:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1 pays points to the top 10 in a Grand Prix, from 25 for a win to 1 for tenth, and to the top 8 in a Sprint. There has been no bonus point for fastest lap since 2025. Both drivers&#39; points count toward the team title.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>São Paulo Grand Prix Schedule: U.S. Viewing Guide for November 6–8</title>
+    <id>https://gridandpit.com/articles/2026-11-03-sao-paulo-grand-prix-us-viewing-guide-2026/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-03-sao-paulo-grand-prix-us-viewing-guide-2026/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1 has confirmed the Brazil weekend timetable, with Sunday’s race scheduled for 2 p.m. São Paulo time.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>How Mercedes can clinch the 2026 F1 constructors&#39; title in Sao Paulo</title>
+    <id>https://gridandpit.com/articles/2026-11-03-mercedes-constructors-title-sao-paulo-math/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-03-mercedes-constructors-title-sao-paulo-math/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Mercedes leads Ferrari by 126 points with four races left, and only 129 points will be available after Sao Paulo. Outscore Ferrari by three at Interlagos on Sunday and the teams&#39; title is settled, one week after Kimi Antonelli won the drivers&#39; crown.</summary>
+    <category term="Standings"/>
+  </entry>
+
+  <entry>
+    <title>Kimi Antonelli Arrives in Brazil as F1’s Youngest World Champion</title>
+    <id>https://gridandpit.com/articles/2026-11-03-kimi-antonelli-youngest-champion-brazil-2026/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-03-kimi-antonelli-youngest-champion-brazil-2026/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The newly crowned Mercedes driver heads to São Paulo after securing the 2026 drivers’ title in Mexico City.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Mexico City Grand Prix 2026 results: Verstappen wins as Antonelli becomes F1 champion</title>
+    <id>https://gridandpit.com/articles/2026-11-02-mexico-city-gp-results-verstappen-wins-antonelli-champion/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-02-mexico-city-gp-results-verstappen-wins-antonelli-champion/"/>
+    <updated>2026-11-02T00:00:00.000Z</updated>
+    <published>2026-11-02T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Max Verstappen won the Mexico City Grand Prix by 0.799 seconds from Lewis Hamilton, but third place was enough for Kimi Antonelli to clinch the 2026 title, the youngest champion in F1 history. Full standings after Mexico City are inside.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>Hamilton takes his first Ferrari pole in Mexico City, 0.009 seconds ahead of Russell</title>
+    <id>https://gridandpit.com/articles/2026-11-01-hamilton-pole-mexico-city-gp-qualifying/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-11-01-hamilton-pole-mexico-city-gp-qualifying/"/>
+    <updated>2026-11-01T00:00:00.000Z</updated>
+    <published>2026-11-01T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Lewis Hamilton put Ferrari on pole for the Mexico City Grand Prix by 0.009 seconds from George Russell. Title leader Kimi Antonelli starts fourth after a grid penalty for Max Verstappen.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>Verstappen and Lawson each drop one grid place for their Mexico City practice clash</title>
+    <id>https://gridandpit.com/articles/2026-10-31-verstappen-lawson-grid-penalties-mexico-practice/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-31-verstappen-lawson-grid-penalties-mexico-practice/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The stewards gave Max Verstappen and Liam Lawson a one place grid drop and one penalty point each after the two made contact in the stadium section during second practice in Mexico City.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Leclerc tops both Mexico City practice sessions as Hamilton&#39;s Friday ends early</title>
+    <id>https://gridandpit.com/articles/2026-10-31-mexico-city-practice-leclerc-tops-both-sessions/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-31-mexico-city-practice-leclerc-tops-both-sessions/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Charles Leclerc was fastest in both Friday practice sessions at the Mexico City Grand Prix, with Lando Norris and George Russell close behind in FP2 and title leader Kimi Antonelli fourth.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>Mexico City GP tire strategy: why Pirelli sees a one stop or two stop race</title>
+    <id>https://gridandpit.com/articles/2026-10-31-mexico-city-gp-tire-strategy-pirelli/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-31-mexico-city-gp-tire-strategy-pirelli/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Pirelli says Friday&#39;s long runs in Mexico City showed significant wear on the medium and soft tires, so Sunday&#39;s race could be a careful one stop or a two stop. Here is what the data shows and what it means for US viewers.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>How the rookies fared in Mexico City FP1: Vesti third, Crawford stopped early and three debuts</title>
+    <id>https://gridandpit.com/articles/2026-10-31-mexico-city-fp1-rookies-crawford-herta-tsolov-slater/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-31-mexico-city-fp1-rookies-crawford-herta-tsolov-slater/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Ten of the 11 teams ran a young driver in first practice in Mexico City. Frederik Vesti was third for Mercedes, American Jak Crawford stopped with a battery problem, and Nikola Tsolov, Gabriele Mini and Freddie Slater made their Formula 1 session debuts.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>Colton Herta is still one point short of a super license after Mexico City practice</title>
+    <id>https://gridandpit.com/articles/2026-10-31-colton-herta-still-one-point-short-super-license/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-31-colton-herta-still-one-point-short-super-license/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>A correction to IndyCar&#39;s 2025 standings means Colton Herta is on 39 super license points, not 40, so Cadillac needs to run him in one more practice session this year.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>Bottas will start the Mexico City Grand Prix from the back after five new power unit parts</title>
+    <id>https://gridandpit.com/articles/2026-10-31-bottas-back-of-grid-mexico-power-unit-penalty/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-31-bottas-back-of-grid-mexico-power-unit-penalty/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Cadillac fitted Valtteri Bottas with five new power unit elements beyond the season allocation, adding up to a 50 place grid penalty that sends him to the back of the grid on Sunday.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Russell says he has never had a season like this, as Mercedes chases a wider window in Mexico</title>
+    <id>https://gridandpit.com/articles/2026-10-30-russell-inconsistent-season-mexico/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-30-russell-inconsistent-season-mexico/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>George Russell arrived in Mexico City second in the standings but only nine points clear of fifth. He told Thursday&#39;s press conference his form has swung more this year than at any point in his career, and explained why.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Turbo lag and thin air: why Mexico City is a new test for the 2026 power units</title>
+    <id>https://gridandpit.com/articles/2026-10-30-mexico-city-altitude-turbo-lag-explained/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-30-mexico-city-altitude-turbo-lag-explained/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>This weekend is the first time the 2026 power units race at extreme altitude. Drivers expect turbo lag and lost downforce to shape the order. Here is what that means in plain terms.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>Bottas misses Mexico City media day as Cadillac weighs its 2027 lineup</title>
+    <id>https://gridandpit.com/articles/2026-10-30-bottas-misses-media-day-herta-fp1-cadillac-2027/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-30-bottas-misses-media-day-herta-fp1-cadillac-2027/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Cadillac says Valtteri Bottas was unwell and rested on Thursday as a precaution. Colton Herta takes his car in first practice, and the question of who partners Sergio Perez in 2027 is still open.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>Bearman says staying at Haas for 2027 is his target and the team is finalizing details</title>
+    <id>https://gridandpit.com/articles/2026-10-30-bearman-haas-2027-future/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-30-bearman-haas-2027-future/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Oliver Bearman told Thursday&#39;s Mexico City press conference that continuing with Haas is his clear goal for 2027, and that the timing of any announcement is out of his hands.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>Albon, Perez and Leclerc push back after Alonso criticizes driving at the back of the grid</title>
+    <id>https://gridandpit.com/articles/2026-10-30-alonso-albon-midfield-driving-row/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-30-alonso-albon-midfield-driving-row/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Fernando Alonso stood by his criticism of the standard of driving in the lower third of the grid after his Austin battle with Alex Albon. Albon, Sergio Perez, Charles Leclerc, Pierre Gasly and Oliver Bearman all disagreed in Mexico City.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Why thin air makes Mexico City a different kind of Formula 1 race</title>
+    <id>https://gridandpit.com/articles/2026-10-29-why-thin-air-changes-mexico-city/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-29-why-thin-air-changes-mexico-city/"/>
+    <updated>2026-10-29T19:00:00.000Z</updated>
+    <published>2026-10-29T19:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Mexico City is the highest round on the calendar, but published figures for the elevation do not match. The thinner air is why teams run more wing, open the bodywork, and watch the brakes.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>McLaren aims its next upgrades at Brazil and Las Vegas</title>
+    <id>https://gridandpit.com/articles/2026-10-29-mclaren-upgrades-brazil-las-vegas/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-29-mclaren-upgrades-brazil-las-vegas/"/>
+    <updated>2026-10-29T15:00:00.000Z</updated>
+    <published>2026-10-29T15:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Andrea Stella says Mexico City will see little new on the MCL40, with further upgrades planned for Brazil and Las Vegas. McLaren&#39;s own preview says the team will hone the Austin changes and bring only a small selection of parts.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Sergio Pérez will stay at Cadillac through at least 2029</title>
+    <id>https://gridandpit.com/articles/2026-10-29-perez-cadillac-through-2029/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-29-perez-cadillac-through-2029/"/>
+    <updated>2026-10-29T11:00:00.000Z</updated>
+    <published>2026-10-29T11:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Formula 1 reported Wednesday that Cadillac will keep Sergio Pérez through at least 2029. The news landed in the week of his 300th Grand Prix, at his home race in Mexico City.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Youngest F1 world champions: where Kimi Antonelli would rank if he wins in Mexico City</title>
+    <id>https://gridandpit.com/articles/2026-10-28-youngest-f1-champions-antonelli/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-28-youngest-f1-champions-antonelli/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Antonelli would be 20 years and 68 days old on race day, more than three years younger than Sebastian Vettel&#39;s record. Here is the full list he would top, and the American champions for comparison.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>Red Bull Ford engine draws interest from rivals, but Mekies rules out a new customer for now</title>
+    <id>https://gridandpit.com/articles/2026-10-28-red-bull-ford-engine-supply-mekies/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-28-red-bull-ford-engine-supply-mekies/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Red Bull&#39;s first in house power unit, built with Ford, has been one of the surprises of 2026. Team boss Laurent Mekies says other teams have noticed, but supply stays with Red Bull and Racing Bulls.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Two Americans in Mexico City practice: Herta and Crawford head a six car FP1 shake up</title>
+    <id>https://gridandpit.com/articles/2026-10-28-mexico-city-fp1-herta-crawford-rookies/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-28-mexico-city-fp1-herta-crawford-rookies/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Colton Herta and Jak Crawford both drive in first practice at the Mexico City Grand Prix, as six regular drivers hand over their cars to reserves and rookies on Friday.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>The fight for second: Russell, Hamilton, Verstappen and Leclerc are nine points apart</title>
+    <id>https://gridandpit.com/articles/2026-10-28-f1-fight-for-second-russell-hamilton-verstappen-leclerc/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-28-f1-fight-for-second-russell-hamilton-verstappen-leclerc/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Antonelli is running away with the title, but the race for runner up is the closest in the table. Four drivers from three teams are covered by nine points with five rounds left.</summary>
+    <category term="Standings"/>
+  </entry>
+
+  <entry>
+    <title>Colton Herta&#39;s super license math: why Mexico City practice left him on 39 points</title>
+    <id>https://gridandpit.com/articles/2026-10-28-colton-herta-super-licence-points-mexico/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-28-colton-herta-super-licence-points-mexico/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Herta completed Mexico City FP1 but is on 39 of the 40 super license points he needs after IndyCar&#39;s 2025 standings were corrected. Here is how the numbers work.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>São Paulo Grand Prix 2026 start times in Eastern, Central, Mountain and Pacific time</title>
+    <id>https://gridandpit.com/articles/2026-10-27-sao-paulo-gp-2026-times-us/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-sao-paulo-gp-2026-times-us/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The São Paulo Grand Prix starts Sunday, November 8 at noon Eastern, 11 AM Central, 10 AM Mountain and 9 AM Pacific. US clocks will already be on standard time, and there is no Sprint at Interlagos this year.</summary>
+    <category term="Race Times"/>
+  </entry>
+
+  <entry>
+    <title>Mexico City Grand Prix 2026 start times in ET, CT, MT and PT</title>
+    <id>https://gridandpit.com/articles/2026-10-27-mexico-city-gp-race-times-us/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-mexico-city-gp-race-times-us/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The Mexico City Grand Prix starts Sunday, November 1 at 3 PM Eastern, 2 PM Central, 1 PM Mountain and noon Pacific. Daylight saving time ends that morning, so race day runs on standard time.</summary>
+    <category term="Race Times"/>
+  </entry>
+
+  <entry>
+    <title>Mexico City Grand Prix preview: five things US fans should watch this weekend</title>
+    <id>https://gridandpit.com/articles/2026-10-27-mexico-city-gp-preview-us-fans/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-mexico-city-gp-preview-us-fans/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Antonelli can wrap up the title at altitude, Ferrari hopes the thin air helps, and Sergio Pérez brings Cadillac to his home race for his 300th start. Here is what to follow from the US.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Las Vegas Grand Prix 2026 schedule in ET, CT, MT and PT</title>
+    <id>https://gridandpit.com/articles/2026-10-27-las-vegas-gp-2026-times/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-las-vegas-gp-2026-times/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The 2026 Las Vegas Grand Prix starts Saturday, November 21 at 8 PM Pacific, which is 11 PM Eastern. Here is every session in US time zones.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>F1 tiebreak rules explained: why ninth place is enough for Antonelli in Mexico City</title>
+    <id>https://gridandpit.com/articles/2026-10-27-f1-tiebreak-rules-explained/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-f1-tiebreak-rules-explained/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>When two drivers finish level on points, the title goes to the one with more wins. That countback rule is why Antonelli can clinch with ninth, and why tenth works unless Russell wins.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+  <entry>
+    <title>F1 standings after Austin: Antonelli leads by 123, Mercedes on 607</title>
+    <id>https://gridandpit.com/articles/2026-10-27-f1-standings-after-austin/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-f1-standings-after-austin/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>After round 18 in Austin, Kimi Antonelli has 365 points to George Russell&#39;s 242, and Mercedes leads the constructors with 607 points to Ferrari&#39;s 474.</summary>
+    <category term="Standings"/>
+  </entry>
+
+  <entry>
+    <title>2027 F1 seats still open: Bearman&#39;s Haas delay, Racing Bulls and Herta&#39;s Cadillac chance</title>
+    <id>https://gridandpit.com/articles/2026-10-27-f1-2027-open-seats-bearman-herta/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-f1-2027-open-seats-bearman-herta/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Three 2027 race seats are still officially unconfirmed, and Cadillac&#39;s chief executive says there is always a chance for American Colton Herta. Here is where every open question stands.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>F1 2027 driver market: Camara joins Haas, Ocon is out, Cadillac stays quiet</title>
+    <id>https://gridandpit.com/articles/2026-10-27-f1-2027-driver-market/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-f1-2027-driver-market/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Haas has signed Formula 2 leader Rafael Câmara for 2027 in place of Esteban Ocon, expects to keep Oliver Bearman, and Cadillac has not confirmed its drivers.</summary>
+    <category term="Driver Market"/>
+  </entry>
+
+  <entry>
+    <title>2027 F1 calendar: dates for Miami, Austin and Las Vegas, and why none of them has a Sprint</title>
+    <id>https://gridandpit.com/articles/2026-10-27-f1-2027-calendar-us-races/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-f1-2027-calendar-us-races/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>The 2027 calendar has 24 Grands Prix and 10 Sprints. Miami runs April 30 to May 2, Austin October 22 to 24 and Las Vegas November 18 to 20, and all three are standard weekends.</summary>
+    <category term="News"/>
+  </entry>
+
+  <entry>
+    <title>Cadillac takes Sergio Pérez home for his 300th Grand Prix, starting with a Mexico City street run</title>
+    <id>https://gridandpit.com/articles/2026-10-27-cadillac-perez-300th-mexico/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-cadillac-perez-300th-mexico/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Cadillac makes its first appearance in Mexico with a Pérez show run on Paseo de la Reforma on Wednesday, ahead of the driver&#39;s 300th Grand Prix and a weekend that tests a team still looking for points.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Cadillac&#39;s home race in Austin ends without points as 2027 lineup questions grow</title>
+    <id>https://gridandpit.com/articles/2026-10-27-cadillac-austin-2027-lineup/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-cadillac-austin-2027-lineup/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Sergio Pérez finished 19th and Valtteri Bottas retired at COTA, leaving Cadillac on zero points, while team principal Marcin Budkowski declined to confirm either driver for 2027.</summary>
+    <category term="Teams"/>
+  </entry>
+
+  <entry>
+    <title>Antonelli wins the United States Grand Prix from pole and moves to the brink of the title</title>
+    <id>https://gridandpit.com/articles/2026-10-27-antonelli-wins-austin/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-antonelli-wins-austin/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Kimi Antonelli won in Austin by 13.078 seconds over Charles Leclerc, with Max Verstappen third. He now leads George Russell by 123 points with five rounds left.</summary>
+    <category term="Results"/>
+  </entry>
+
+  <entry>
+    <title>How Kimi Antonelli can clinch the 2026 title in Mexico City</title>
+    <id>https://gridandpit.com/articles/2026-10-27-antonelli-title-mexico-scenarios/</id>
+    <link rel="alternate" href="https://gridandpit.com/articles/2026-10-27-antonelli-title-mexico-scenarios/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>Grid and Pit</name></author>
+    <summary>Antonelli is champion in Mexico City if he finishes ninth or better, or if neither George Russell nor Lewis Hamilton wins the race. Here is the points math behind it.</summary>
+    <category term="Rules Explainers"/>
+  </entry>
+
+</feed>
