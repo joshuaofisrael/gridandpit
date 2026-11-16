@@ -55,7 +55,7 @@ sources:
   date: '2026-11-16'
 ---
 
-Rafael Camara will race for Haas again at this weekend's Las Vegas Grand Prix. Formula 1 [posted on X](XF1) on Monday morning that the Brazilian "will return for his second F1 race weekend", and that Ryo Hirakawa "is also set to get behind the wheel during FP1".
+Rafael Camara will race for Haas again at this weekend's Las Vegas Grand Prix. Formula 1 [posted on X](https://x.com/F1/status/2122283552540676324) on Monday morning that the Brazilian "will return for his second F1 race weekend", and that Ryo Hirakawa "is also set to get behind the wheel during FP1".
 
 ## Why Haas have a seat to fill
 
