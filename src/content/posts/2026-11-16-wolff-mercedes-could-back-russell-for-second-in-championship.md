@@ -55,11 +55,11 @@ Kimi Antonelli won the drivers' title in Mexico and Mercedes sealed the construc
 
 ## What Wolff said
 
-Speaking after the Sao Paulo Grand Prix, Wolff said Mercedes had not yet thought about the drivers' standings but "absolutely" want Russell to score the maximum and finish second. He added that giving Russell full backing "could be a possibility". He also said he expects Russell, whose best championship finish is fourth, to recover strongly in 2027.
+Speaking after the Sao Paulo Grand Prix, Wolff said Mercedes had not yet thought about the drivers' standings but definitely want Russell to score the maximum and finish second. He added that giving Russell full backing "could be a possibility". He also said he expects Russell, whose best championship finish is fourth, to recover strongly in 2027.
 
 ## Looking ahead
 
-Wolff warned that Mercedes have won only one of the last five races, Antonelli's United States Grand Prix, and that Ferrari, McLaren and Red Bull will all be in next year's title fight. He said the team will use the last three rounds to learn for next year's car and power unit while racing "full blast".
+Wolff warned that Mercedes have won only one of the last five races, Antonelli's United States Grand Prix, and that Ferrari, McLaren and Red Bull will all be in next year's title fight. He said the team will use the last three rounds to learn for next year's car and power unit while still racing flat out.
 
 The run-in starts at the Las Vegas Grand Prix this weekend, followed by Qatar and Abu Dhabi.
 

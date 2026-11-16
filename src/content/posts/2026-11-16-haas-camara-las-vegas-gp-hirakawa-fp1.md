@@ -65,7 +65,7 @@ Haas have had a vacant race seat for the last five rounds since Esteban Ocon and
 
 ## A tough first weekend
 
-Camara's debut came in changeable, wet conditions. Autosport says he showed good pace by the end of third practice, but hit the wall in Q2 and spent a difficult stint on intermediate tyres that left him near the back. Komatsu told Sky Sports the debut, under "extremely challenging conditions", showed why the team signed him, and that Haas want to build on it.
+Camara's debut came in changeable, wet conditions. Autosport says he showed good pace by the end of third practice, but hit the wall in Q2 and spent a difficult stint on intermediate tyres that left him near the back. Komatsu told Sky Sports the debut, in very difficult conditions, showed why the team signed him, and that Haas want to build on it.
 
 ## FP1 and what comes next
 
