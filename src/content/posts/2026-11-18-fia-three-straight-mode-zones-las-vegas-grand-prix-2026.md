@@ -14,7 +14,7 @@ tags:
 - formula-1
 - fia
 - straight-mode
-- active-aero
+- active aero
 - las-vegas-gp
 - overtake-mode
 author: Grid and Pit
