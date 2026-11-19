@@ -1,8 +1,8 @@
 ---
 title: '"To whom it may concern, I''m staying": Cadillac keeps Bottas for 2027, ending
   weeks of doubt'
-date: '2026-11-19T14:30:00.000Z'
-updatedAt: '2026-11-19T14:30:00.000Z'
+date: '2026-11-19T14:15:00.000Z'
+updatedAt: '2026-11-19T14:15:00.000Z'
 category: Driver Market
 summary: Cadillac has confirmed Valtteri Bottas will race for the team again in 2027
   alongside Sergio Pérez. CEO Dan Towriss pointed to his experience and the value

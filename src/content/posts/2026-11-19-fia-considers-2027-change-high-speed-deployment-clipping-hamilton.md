@@ -1,8 +1,8 @@
 ---
 title: Hamilton called it "the silliest thing". Now the FIA may change F1's clipping
   rules for 2027
-date: '2026-11-19T14:20:00.000Z'
-updatedAt: '2026-11-19T14:20:00.000Z'
+date: '2026-11-19T14:10:00.000Z'
+updatedAt: '2026-11-19T14:10:00.000Z'
 category: Rules Explainers
 summary: The FIA will consult teams on how electrical power is cut back at high speed,
   the effect drivers call clipping, after Lewis Hamilton said it stops cars completing
