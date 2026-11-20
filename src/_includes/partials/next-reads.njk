@@ -1,0 +1,22 @@
+{% if cardPosts and cardPosts.length %}
+<ul class="next-reads-grid">
+  {% for post in cardPosts %}
+  <li class="next-read-item">
+    <a class="next-read" href="{{ post.url }}">
+      {% if post.data.hero and post.data.hero.src and (post.data.hero.src | imageFilesReady) %}
+      <img src="{{ ('/assets/images/' ~ post.data.hero.src ~ '.webp') | url }}" alt="" width="1280" height="720" loading="lazy" decoding="async">
+      {% else %}
+      <span class="next-read-fallback" aria-hidden="true"></span>
+      {% endif %}
+      <span class="next-read-copy">
+        {% if post.data.category %}<span class="next-read-kicker">{{ post.data.category }}</span>{% endif %}
+        <span class="next-read-title">{{ post.data.title }}</span>
+      </span>
+    </a>
+    {% if post.data.hero and post.data.hero.src and (post.data.hero.src | imageFilesReady) %}
+    <p class="next-read-credit"><a href="{{ '/image-policy/' | url }}">AI generated</a></p>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

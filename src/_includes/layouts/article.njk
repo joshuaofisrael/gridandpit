@@ -41,9 +41,62 @@ layout: layouts/base.njk
   </figure>
   {% endif %}
   {% include "partials/story-figure.njk" %}
+  {% set reads = collections.posts | nextReads(category, page.url, tags, 4) %}
+  {% set follow = collections.posts | followUps(page.url, tags, page.date, 3, reads) %}
+  {% set background = collections.posts | backgroundReads(page.url, tags, category, 2, reads) %}
+  {% set matchedHubs = site.hubs | hubsForTags(tags) %}
+  {% set cardPosts = reads %}
+  {% if reads.length %}
+  {% set midBlock %}
+  <aside class="next-reads" aria-label="Keep reading">
+    <h2>Keep reading</h2>
+    {% include "partials/next-reads.njk" %}
+  </aside>
+  {% endset %}
+  {% else %}
+  {% set midBlock = "" %}
+  {% endif %}
   <div class="prose">
-    {{ content | insertBodyImages(images) | safe }}
+    {{ content | insertBodyImages(images) | insertAfterParagraph(midBlock) | safe }}
   </div>
+  {% if (category | isNewsDesk) or follow.length or background.length or matchedHubs.length %}
+  <section class="story-follow" aria-labelledby="follow-heading">
+    {% if (category | isNewsDesk) or follow.length %}
+    <h2 id="follow-heading">What happened next</h2>
+    {% if follow.length %}
+    {% set cardPosts = follow %}
+    {% include "partials/next-reads.njk" %}
+    {% else %}
+    <p>Nothing later on this thread is on the site yet.</p>
+    {% endif %}
+    {% if background.length or matchedHubs.length or (category | isNewsDesk) %}
+    <h3>Background</h3>
+    {% if background.length %}
+    {% set cardPosts = background %}
+    {% include "partials/next-reads.njk" %}
+    {% endif %}
+    <ul class="background-links">
+      <li><a href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{{ category }} desk</a></li>
+      {% for hub in matchedHubs %}
+      <li><a href="{{ ('/hubs/' ~ hub.slug ~ '/') | url }}">{{ hub.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% else %}
+    <h2 id="follow-heading">Background</h2>
+    {% if background.length %}
+    {% set cardPosts = background %}
+    {% include "partials/next-reads.njk" %}
+    {% endif %}
+    <ul class="background-links">
+      <li><a href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{{ category }} desk</a></li>
+      {% for hub in matchedHubs %}
+      <li><a href="{{ ('/hubs/' ~ hub.slug ~ '/') | url }}">{{ hub.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </section>
+  {% endif %}
   {% if tags and tags.length %}
   <section class="tag-block" aria-labelledby="tags-heading">
     <h2 id="tags-heading">Tags</h2>
@@ -86,18 +139,18 @@ layout: layouts/base.njk
     <p>This draft has no sources yet. Add a non-empty sources list before publishing. The production build fails without one.</p>
     {% endif %}
   </section>
-  {% set related = collections.posts | relatedStories(category, page.url, 5) %}
-  <section class="related" aria-labelledby="related-heading">
-    <h2 id="related-heading">Related stories</h2>
-    <p>More from the <a href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{{ category }} desk</a>.</p>
-    {% if related.length %}
-    <ul>
-      {% for post in related %}
-      <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-      {% endfor %}
-    </ul>
+  <section class="related next-reads next-reads-end" aria-labelledby="related-heading">
+    <h2 id="related-heading">{% if category | isLookupDesk %}Check another{% else %}Related stories{% endif %}</h2>
+    {% if category | isLookupDesk %}
+    <p>Another page on the <a href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{{ category }} desk</a>.</p>
     {% else %}
-    <p>No other published story is in {{ category }}.</p>
+    <p>More from the <a href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{{ category }} desk</a>.</p>
+    {% endif %}
+    {% if reads.length %}
+    {% set cardPosts = reads %}
+    {% include "partials/next-reads.njk" %}
+    {% else %}
+    <p>No other published story sits close to this one.</p>
     {% endif %}
   </section>
 </article>

@@ -5,6 +5,15 @@ import { freshNewsPosts, renderNewsSitemap } from "./lib/news-sitemap.js";
 import { absoluteUrl, pathPrefixFromSiteUrl, prefixRootUrls } from "./lib/site-url.js";
 import { buildCrumbs, renderBreadcrumbNav, renderJsonLd } from "./lib/structured-data.js";
 import { figureCaption, imageFilesReady, insertBodyImages } from "./lib/article-images.js";
+import {
+  hubsForTags,
+  insertAfterParagraph,
+  isLookupDesk,
+  isNewsDesk,
+  pickBackground,
+  pickFollowUps,
+  pickRelated,
+} from "./lib/engagement.js";
 import { metaDescription } from "./lib/meta-description.js";
 import { presentDashboard, validateDashboard } from "./lib/dashboard.js";
 import { formatValidationErrors, validatePostsDir } from "./lib/validate-posts.js";
@@ -70,6 +79,39 @@ export default function (eleventyConfig) {
       .sort(byNewestPublish)
       .slice(0, Number(limit) || 5),
   );
+  eleventyConfig.addFilter("nextReads", (posts, category, currentUrl, tags, limit = 4) =>
+    pickRelated(posts, {
+      category,
+      url: currentUrl,
+      tags,
+      limit,
+      isListed: isListedPost,
+    }),
+  );
+  eleventyConfig.addFilter("followUps", (posts, currentUrl, tags, publishedAt, limit = 3, exclude) =>
+    pickFollowUps(posts, {
+      url: currentUrl,
+      tags,
+      publishedAt: publishMs({ data: { date: publishedAt }, date: publishedAt }),
+      limit,
+      exclude,
+      isListed: isListedPost,
+    }),
+  );
+  eleventyConfig.addFilter("backgroundReads", (posts, currentUrl, tags, category, limit = 3, exclude) =>
+    pickBackground(posts, {
+      url: currentUrl,
+      tags,
+      category,
+      limit,
+      exclude,
+      isListed: isListedPost,
+    }),
+  );
+  eleventyConfig.addFilter("hubsForTags", (hubs, tags) => hubsForTags(hubs, tags));
+  eleventyConfig.addFilter("isNewsDesk", (category) => isNewsDesk(category));
+  eleventyConfig.addFilter("isLookupDesk", (category) => isLookupDesk(category));
+  eleventyConfig.addFilter("insertAfterParagraph", (html, block) => insertAfterParagraph(html, block));
   eleventyConfig.addFilter("whereTag", (posts, tag) =>
     (posts || []).filter((post) => (post.data.tags || []).includes(tag)),
   );

@@ -12,12 +12,20 @@ layout: layouts/section.njk
 {% set stories = collections.posts | whereCategory(desk.name) %}
 {% set emptyNote = "No story has been published in " ~ desk.name ~ " yet." %}
 {% include "partials/story-list.njk" %}
-<nav class="related" aria-label="Other desks">
+<nav class="related next-reads" aria-label="Other desks">
   <h2>Other desks</h2>
-  <ul>
+  <ul class="next-reads-grid">
     {% for item in site.categories %}
     {% if item.slug != desk.slug %}
-    <li><a href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">{{ item.name }}</a></li>
+    <li class="next-read-item">
+      <a class="next-read" href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">
+        <img src="{{ ('/assets/photos/' ~ item.photo ~ '.webp') | url }}" alt="" width="1280" height="720" loading="lazy" decoding="async">
+        <span class="next-read-copy">
+          <span class="next-read-title">{{ item.name }}</span>
+        </span>
+      </a>
+      <p class="next-read-credit"><a href="{{ '/image-policy/' | url }}">AI generated</a></p>
+    </li>
     {% endif %}
     {% endfor %}
   </ul>
