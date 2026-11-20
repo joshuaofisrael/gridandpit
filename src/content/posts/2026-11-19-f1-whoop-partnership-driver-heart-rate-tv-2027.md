@@ -1,5 +1,5 @@
 ---
-title: 'Drivers'' heart rates could be on your TV as early as 2027: F1 signs WHOOP'
+title: 'Drivers'' heart rates could be on your TV as early as 2027: F1 announces WHOOP partnership'
 date: '2026-11-19T17:00:00.000Z'
 updatedAt: '2026-11-19T17:00:00.000Z'
 category: News
