@@ -14,6 +14,7 @@ eleventyComputed:
 {% set stories = collections.posts | whereTag(hubItem.tag) %}
 {% set emptyNote = "No " ~ hubItem.name ~ " story has been published yet. This hub fills as stories are filed." %}
 {% include "partials/story-list.njk" %}
+<p>Lap records for the US circuits, the youngest champions list and the pole to win counts are on the <a href="{{ '/records/' | url }}">records page</a>.</p>
 <nav class="related" aria-label="Other hubs">
   <h2>Other hubs</h2>
   <ul>

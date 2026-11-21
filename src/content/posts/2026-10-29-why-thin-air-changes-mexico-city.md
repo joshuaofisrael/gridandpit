@@ -2,7 +2,7 @@
 title: "Why thin air makes Mexico City a different kind of Formula 1 race"
 date: 2026-10-29T19:00:00.000Z
 publishAt: "2026-10-29T19:00:00.000Z"
-updatedAt: 2026-10-29
+updatedAt: 2026-11-21
 category: Rules Explainers
 news: false
 summary: "Mexico City is the highest round on the calendar, but published figures for the elevation do not match. The thinner air is why teams run more wing, open the bodywork, and watch the brakes."
@@ -48,7 +48,9 @@ sources:
     date: 2019-10-22
 ---
 
-Mexico City is the highest stop on the Formula 1 calendar, and the thin air is why the weekend feels different from a sea-level race. Teams run more wing than the long straight seems to ask for, they open the bodywork to cool the car, and the braking zones get harder. What the sources do not agree on is the exact height.
+Update, 21 November 2026: the four sources below were opened again. Pirelli still says over 2,000 meters. The McLaren circuit guide still says 2,285 meters (7,497 feet), with Interlagos at 800 meters (2,625 feet). The McLaren preview still says 2,200 meters, a lap of 4.304 kilometers and a straight of about 1.2 kilometers. The Formula 1 technical article of 22 October 2019 still says 2,250 meters and air about 25 percent less dense than at Bahrain. None of those figures moved. US lap records from Formula 1's own circuit guides are on the [records page](/records/). The race this explainer was written toward is the [Mexico City result](/articles/2026-11-02-mexico-city-gp-results-verstappen-wins-antonelli-champion/).
+
+Mexico City is the highest stop on the Formula 1 calendar, and the thin air is why the weekend feels different from a sea level race. Teams run more wing than the long straight seems to ask for, they open the bodywork to cool the car, and the braking zones get harder. What the sources do not agree on is the exact height.
 
 [Pirelli's preview](https://press.pirelli.com/mexico-new-asphalt-and-the-softest-compound-trio/) for this year's race, published October 28, calls the venue unique because it sits more than 2,000 meters above sea level. Other guides for the same circuit use tighter numbers, and they are not the same number.
 

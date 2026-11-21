@@ -13,6 +13,7 @@
         {% endfor %}
         <li><a href="{{ '/dashboard/' | url }}">Newsroom</a></li>
         <li><a href="{{ '/data/' | url }}">Points table</a></li>
+        <li><a href="{{ '/records/' | url }}">Records</a></li>
         {% for hub in site.hubs %}<li><a href="{{ ('/hubs/' ~ hub.slug ~ '/') | url }}">{{ hub.name }} hub</a></li>{% endfor %}
         <li><a href="{{ '/archive/' | url }}">Archive</a></li>
       </ul>

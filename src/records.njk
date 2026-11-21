@@ -1,0 +1,170 @@
+---
+layout: layouts/base.njk
+permalink: /records/
+title: "F1 records: pole won 14 of the first 20 races in 2026"
+summary: "Pole won 14 of the first 20 Grands Prix in 2026. Formula 1 puts Antonelli at 20 years and 68 days. US lap records, with CSV downloads."
+description: "Pole won 14 of the first 20 Grands Prix in 2026. Formula 1 puts Antonelli at 20 years and 68 days. US lap records, with CSV downloads."
+kind: records
+date: 2026-11-21
+updatedAt: 2026-11-21
+---
+<header class="page-head">
+  <p class="page-kicker">{% set iconName = "results" %}{% include "partials/section-icon.njk" %} Records</p>
+  <h1>F1 records: pole won 14 of the first 20 races in 2026</h1>
+  <p class="dek">{{ summary }}</p>
+  <p class="last-updated">Last checked <time datetime="{{ records.checkedOn }}">{{ records.checkedOn | displayDate }}</time></p>
+</header>
+
+<p>The polesitter won 14 of the 20 Grands Prix that had a race classification on the <a href="https://www.formula1.com/en/results/2026/races">Formula 1 2026 results index</a> when it was read on 21 November 2026. That is 70 percent. The same count was 16 of 24 in 2025 and 12 of 24 in 2024. <a href="https://www.formula1.com/en/latest/article/f1s-youngest-world-champions-as-antonelli-smashes-record.4otUr4h4wmWd6VmIEaNjzV">Formula 1's youngest champions article</a>, published 3 November 2026 and read again on 21 November, puts Kimi Antonelli first at 20 years and 68 days.</p>
+
+<p>This page is a table of those published figures, plus the US circuit numbers Formula 1 prints on its circuit guides. It is not a live timing feed. Grid and Pit counted the pole to win column. Every other cell is copied from the linked page.</p>
+
+<section class="dash-section" aria-labelledby="youngest-heading">
+  <h2 id="youngest-heading">Youngest champions</h2>
+  <p>Formula 1 published five names. The <a href="https://www.fia.com/news/f1-antonelli-crowned-f1s-youngest-world-champion-verstappen-wins-mexico-city">FIA race report</a> of 2 November 2026 calls Antonelli the youngest world champion and says he was 20, after third place in Mexico City. It does not print the day count. The ages below are the ones Formula 1 printed, not a count this desk worked out from birth dates.</p>
+  <table class="dash-table">
+    <caption>Five youngest first titles, as Formula 1 listed them on 3 November 2026.</caption>
+    <thead>
+      <tr>
+        <th scope="col">Rank</th>
+        <th scope="col">Driver</th>
+        <th scope="col">First title</th>
+        <th scope="col">Age</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in records.youngest %}
+      <tr>
+        <td>{{ row.rank }}</td>
+        <th scope="row">{{ row.driver }}</th>
+        <td>{{ row.season }}</td>
+        <td>{{ row.years }} years and {{ row.days }} days</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p>A longer list sits on <a href="{{ '/articles/2026-10-28-youngest-f1-champions-antonelli/' | url }}">youngest F1 world champions</a>. That story follows a Wikipedia table checked on 20 November 2026, which prints Sebastian Vettel at 23 years and 134 days and Fernando Alonso at 24 years and 58 days. Formula 1 prints 133 and 57. This page does not average the two. The <a href="{{ '/articles/2026-10-27-f1-tiebreak-rules-explained/' | url }}">tiebreak explainer</a> is how a title is settled when the points are level, and the <a href="{{ '/articles/2026-11-02-mexico-city-gp-results-verstappen-wins-antonelli-champion/' | url }}">Mexico City result</a> is the race where Antonelli took the 2026 title.</p>
+</section>
+
+<section class="dash-section" aria-labelledby="pole-heading">
+  <h2 id="pole-heading">Pole to win, season by season</h2>
+  <p>Pole here means position 1 on the qualifying classification. The winner is position 1 on the race classification. A row counts only when those two names match. It is not the starting grid after a penalty, and a polesitter who does not win the race is a no. Las Vegas, Qatar and Abu Dhabi were linked on the 2026 index and had no winner in the classification, so they are not in the 20.</p>
+  <table class="dash-table">
+    <caption>Pole to win counts from the Formula 1 season results pages, read 21 November 2026.</caption>
+    <thead>
+      <tr>
+        <th scope="col">Season</th>
+        <th scope="col">Races counted</th>
+        <th scope="col">Won from pole</th>
+        <th scope="col">Share</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for season in records.seasons %}
+      <tr>
+        <th scope="row">{{ season.season }}</th>
+        <td>{{ season.races }}</td>
+        <td>{{ season.poleWins }}</td>
+        <td>{% if season.season == 2024 %}half, 12 of 24{% elif season.season == 2025 %}16 of 24, which is two thirds{% else %}14 of 20, which is 70 percent. The season is not finished.{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p>The 2024 and 2025 race rows are in the CSV, in the order of each season's results index. The date in that file is the last day of the weekend range printed on the race result page. For 2026, the date is the Date column on the season index. The <a href="{{ '/articles/2026-11-03-f1-points-system-explained/' | url }}">points system</a> is a separate scale: a win pays 25 in a full Grand Prix whether or not it started from pole.</p>
+</section>
+
+{% set cardPosts = collections.publishedPosts | postsBySlug(["2026-10-28-youngest-f1-champions-antonelli", "2026-11-03-f1-points-system-explained", "2026-10-27-f1-tiebreak-rules-explained", "2026-10-27-antonelli-wins-austin"]) %}
+<aside class="next-reads" aria-label="Keep reading">
+  <h2>Keep reading</h2>
+  {% include "partials/next-reads.njk" %}
+</aside>
+
+<section class="dash-section" aria-labelledby="races-2026-heading">
+  <h2 id="races-2026-heading">The 20 races already classified in 2026</h2>
+  <table class="dash-table">
+    <caption>2026 pole and winner, from each qualifying classification and race classification.</caption>
+    <thead>
+      <tr>
+        <th scope="col">Round</th>
+        <th scope="col">Race</th>
+        <th scope="col">Date</th>
+        <th scope="col">Pole</th>
+        <th scope="col">Winner</th>
+        <th scope="col">Pole won</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for race in records.races %}{% if race.season == 2026 %}
+      <tr>
+        <td>{{ race.round }}</td>
+        <th scope="row">{{ race.race }}</th>
+        <td><time datetime="{{ race.date }}">{{ race.date | displayDate }}</time></td>
+        <td><a href="{{ race.qualifyingUrl }}">{{ race.pole }}</a></td>
+        <td><a href="{{ race.raceUrl }}">{{ race.winner }}</a></td>
+        <td>{% if race.pole == race.winner %}Yes{% else %}No{% endif %}</td>
+      </tr>
+      {% endif %}{% endfor %}
+    </tbody>
+  </table>
+  <p>Austin is round 18 on that list. Antonelli took pole and the race, which is in the <a href="{{ '/articles/2026-10-27-antonelli-wins-austin/' | url }}">United States Grand Prix report</a>. The <a href="{{ '/hubs/austin/' | url }}">Austin hub</a>, the <a href="{{ '/hubs/miami/' | url }}">Miami hub</a> and the <a href="{{ '/hubs/las-vegas/' | url }}">Las Vegas hub</a> collect the US weekend stories. Las Vegas qualifying is already published. The race was not on the results table on 21 November.</p>
+</section>
+
+<section class="dash-section" aria-labelledby="circuits-heading">
+  <h2 id="circuits-heading">US circuit records</h2>
+  <p>Length, laps, distance and the lap record are the figures on the Formula 1 circuit guide and on the matching race page, both opened on 21 November 2026. Turn counts are the ones the circuit guide prints. The year on a lap record is the year Formula 1 prints. It is not a day this desk timed.</p>
+  <table class="dash-table">
+    <caption>United States circuits on the 2026 Formula 1 calendar.</caption>
+    <thead>
+      <tr>
+        <th scope="col">Circuit</th>
+        <th scope="col">Length</th>
+        <th scope="col">Turns</th>
+        <th scope="col">Laps</th>
+        <th scope="col">Race distance</th>
+        <th scope="col">Lap record</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for circuit in records.circuits %}
+      <tr>
+        <th scope="row"><a href="{{ circuit.hub | url }}">{{ circuit.circuit }}</a></th>
+        <td>{{ circuit.lengthKm }} km</td>
+        <td>{{ circuit.turns }}</td>
+        <td>{{ circuit.laps }}</td>
+        <td>{{ circuit.distanceKm }} km</td>
+        <td>{{ circuit.lapRecord }} {{ circuit.driver }} ({{ circuit.year }})</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p>Las Vegas is also on an <a href="https://www.fia.com/sites/default/files/2025_22_usa_f1_r0_timing_racefastestlaps_v01.pdf">FIA fastest laps sheet</a> for the 2025 race: Max Verstappen, 1:33.365, lap 50. That sheet was opened on 21 November 2026. The circuit guide of 19 November 2026 and the <a href="https://www.formula1.com/en/racing/2026/las-vegas">Las Vegas race page</a> print the same time, a length of 6.201 km, 17 turns, 50 laps and 309.958 km. The race page's about text rounds the length to 6.2 km. The table uses 6.201.</p>
+  <p>Miami's guide is dated 30 April 2026. It and the <a href="https://www.formula1.com/en/racing/2026/miami">Miami race page</a> print 5.412 km, 57 laps, 308.326 km, and a lap record of 1:29.708 by Max Verstappen in 2023. The guide is the page that says 19 turns. Austin's guide is dated 22 October 2026. It, the <a href="https://www.formula1.com/en/racing/2026/united-states">United States race page</a> and a Formula 1 facts note from the same morning print 5.513 km and a lap record of 1:36.169 by Charles Leclerc in 2019. The guide and the race page also print 56 laps and 308.432 km. The guide is the page that says 20 turns. Start times for the next US race are in the <a href="{{ '/articles/2026-10-27-las-vegas-gp-2026-times/' | url }}">Las Vegas times guide</a>.</p>
+</section>
+
+<nav class="related" aria-label="Check another">
+  <h2>Check another</h2>
+  <p>These are other Grid and Pit pages, not a different set of numbers.</p>
+  <ul>
+    <li><a href="{{ '/data/' | url }}">Points table</a>, the standings snapshot with a source on each row</li>
+    <li><a href="{{ '/articles/2026-10-28-youngest-f1-champions-antonelli/' | url }}">Youngest champions story</a>, the longer age list</li>
+    <li><a href="{{ '/topics/results/' | url }}">Results desk</a> and the <a href="{{ '/topics/rules/' | url }}">rules desk</a></li>
+    <li><a href="{{ '/hubs/las-vegas/' | url }}">Las Vegas</a>, <a href="{{ '/hubs/miami/' | url }}">Miami</a>, <a href="{{ '/hubs/austin/' | url }}">Austin</a> and <a href="{{ '/hubs/cadillac/' | url }}">Cadillac</a></li>
+  </ul>
+</nav>
+
+<section class="dash-section" aria-labelledby="cite-heading">
+  <h2 id="cite-heading">Cite this</h2>
+  <p class="dash-note">Grid and Pit, "F1 records: pole won 14 of the first 20 races in 2026," https://gridandpit.com/records/, checked 21 November 2026. The classifications belong to Formula 1 and the FIA. This page arranges the figures they published. Quote the linked source for a single result.</p>
+  <p>The CSV files are the same rows. There is no embed code and no request to link here.</p>
+  <ul>
+    <li><a href="{{ '/records/youngest-champions.csv' | url }}">Youngest champions CSV</a></li>
+    <li><a href="{{ '/records/pole-to-win.csv' | url }}">Pole to win, every race CSV</a></li>
+    <li><a href="{{ '/records/pole-to-win-seasons.csv' | url }}">Pole to win, season totals CSV</a></li>
+    <li><a href="{{ '/records/us-circuit-records.csv' | url }}">US circuit records CSV</a></li>
+  </ul>
+</section>
+
+<aside class="next-reads next-reads-end" aria-label="Related stories">
+  <h2>Related stories</h2>
+  {% include "partials/next-reads.njk" %}
+</aside>

@@ -88,6 +88,17 @@ export default function (eleventyConfig) {
       isListed: isListedPost,
     }),
   );
+  eleventyConfig.addFilter("postsBySlug", (posts, slugs) => {
+    const wanted = Array.isArray(slugs) ? slugs : [];
+    const bySlug = new Map();
+    for (const post of posts || []) {
+      const url = String(post?.url || "");
+      for (const slug of wanted) {
+        if (url.includes(`/articles/${slug}/`)) bySlug.set(slug, post);
+      }
+    }
+    return wanted.map((slug) => bySlug.get(slug)).filter(Boolean);
+  });
   eleventyConfig.addFilter("followUps", (posts, currentUrl, tags, publishedAt, limit = 3, exclude) =>
     pickFollowUps(posts, {
       url: currentUrl,

@@ -21,6 +21,7 @@ Search and AI crawlers may read this site. Published articles list public source
 {% endfor %}
 - [Archive]({{ "/archive/" | absoluteUrl }}): Every published story
 - [F1 points table]({{ "/data/" | absoluteUrl }}): Drivers and constructors points with sources
+- [F1 records]({{ "/records/" | absoluteUrl }}): Youngest champions, pole to win counts for 2024 to 2026, and US circuit lap records, with CSV downloads
 {% for hub in site.hubs %}
 - [{{ hub.title | safe }}]({{ ("/hubs/" ~ hub.slug ~ "/") | absoluteUrl }}): {{ hub.intro | safe }}
 {% endfor %}
