@@ -68,3 +68,15 @@ One entry per published story: date, headline, sources, live URL. Started 31 Oct
   - Formula 1: https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-mexico-city-2026.6smOV3lTU4s76z0vrnd1RJ
 
 Updated the same day (SEO refresh): 2026-10-28 Herta super license post (new title, summary and dated update), plus dated update links on the Mexico preview, Antonelli title scenarios and Bottas media day posts.
+
+### F1 records: pole won 14 of the first 20 races in 2026
+- Date checked: 2026-11-21
+- URL: https://gridandpit.com/records/
+- Counts: 2024 pole to win 12 of 24, 2025 16 of 24, 2026 14 of 20. Race rows in lib/records-races.json, each with its qualifying and race classification URL.
+- Sources opened 21 November 2026:
+  - Formula 1 2026 results index: https://www.formula1.com/en/results/2026/races
+  - Formula 1 youngest champions, published 3 November 2026: https://www.formula1.com/en/latest/article/f1s-youngest-world-champions-as-antonelli-smashes-record.4otUr4h4wmWd6VmIEaNjzV
+  - FIA Mexico City report, 2 November 2026: https://www.fia.com/news/f1-antonelli-crowned-f1s-youngest-world-champion-verstappen-wins-mexico-city
+  - Formula 1 circuit guides and race pages for Las Vegas, Miami and Austin, plus the FIA 2025 Las Vegas fastest laps PDF
+  - FIA 2026 Regulations Section A Issue 3, 25 June 2026, reread for the points explainer
+  - Pirelli, McLaren circuit guide, McLaren preview and the 22 October 2019 Formula 1 Mexico air article, reread for the thin air explainer

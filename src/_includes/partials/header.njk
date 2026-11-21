@@ -34,6 +34,9 @@
         <li>
           <a href="{{ '/data/' | url }}"{% if page.url == ("/data/" | url) %} aria-current="page"{% endif %}>{% set iconName = "gauge" %}{% include "partials/section-icon.njk" %}Points table</a>
         </li>
+        <li>
+          <a href="{{ '/records/' | url }}"{% if page.url == ("/records/" | url) %} aria-current="page"{% endif %}>{% set iconName = "results" %}{% include "partials/section-icon.njk" %}Records</a>
+        </li>
       </ul>
     </div>
   </nav>

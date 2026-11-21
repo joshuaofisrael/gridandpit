@@ -1,7 +1,7 @@
 ---
 title: "Youngest F1 world champions: Antonelli is first at 20 years and 68 days"
 date: 2026-10-28
-updatedAt: 2026-11-20
+updatedAt: 2026-11-21
 category: Rules Explainers
 summary: "Kimi Antonelli won the 2026 title at 20 years and 68 days, ahead of Sebastian Vettel at 23 years and 134 days."
 description: "Kimi Antonelli won the 2026 title at 20 years and 68 days, ahead of Sebastian Vettel at 23 years and 134 days."
@@ -49,11 +49,17 @@ sources:
     url: "https://www.mercedesamgf1.com/drivers/driver/andrea-kimi-antonelli"
     publisher: "Mercedes F1 Team"
     date: 2026-10-28
+  - title: "F1's youngest World Champions as Antonelli smashes the record"
+    url: "https://www.formula1.com/en/latest/article/f1s-youngest-world-champions-as-antonelli-smashes-record.4otUr4h4wmWd6VmIEaNjzV"
+    publisher: "Formula 1"
+    date: 2026-11-03
   - title: "Mexico City Grand Prix 2026 results: Verstappen wins as Antonelli becomes F1 champion"
     url: "https://gridandpit.com/articles/2026-11-02-mexico-city-gp-results-verstappen-wins-antonelli-champion/"
     publisher: "Grid and Pit"
     date: 2026-11-02
 ---
+
+Update, 21 November 2026: the [records page](/records/) copies five ages from a Formula 1 article published 3 November 2026. That article prints Vettel at 23 years and 133 days and Alonso at 24 years and 57 days. The table below still follows the Wikipedia list checked on 20 November, which prints 134 and 58. This page does not choose between those day counts.
 
 Update, 20 November 2026: Antonelli is the champion. He finished third in Mexico City on 1 November 2026. [Guinness World Records](https://www.guinnessworldrecords.com/world-records/youngest-formula-one-world-champion), checked 20 November 2026, lists him at 20 years and 68 days, born 25 August 2006. The [Wikipedia list of champions](https://en.wikipedia.org/wiki/List_of_Formula_One_World_Drivers%27_Champions), checked the same day, puts him first on the youngest list. Our [Mexico City result](/articles/2026-11-02-mexico-city-gp-results-verstappen-wins-antonelli-champion/) has the classification.
 

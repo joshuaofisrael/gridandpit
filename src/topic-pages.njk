@@ -10,6 +10,9 @@ permalink: "/topics/{{ desk.slug }}/"
 layout: layouts/section.njk
 ---
 {% set stories = collections.posts | whereCategory(desk.name) %}
+{% if desk.slug == "results" or desk.slug == "standings" or desk.slug == "rules" %}
+<p>Season tables for youngest champions, pole to win rates and the US circuit records are on the <a href="{{ '/records/' | url }}">records page</a>.</p>
+{% endif %}
 {% set emptyNote = "No story has been published in " ~ desk.name ~ " yet." %}
 {% include "partials/story-list.njk" %}
 <nav class="related next-reads" aria-label="Other desks">
